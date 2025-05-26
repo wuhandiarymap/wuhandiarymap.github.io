@@ -1,0 +1,3610 @@
+{
+    "武汉":
+    {
+        "valid": true,
+        "mentioned": 436,
+        "wuhan": true,
+        "area": true,
+        "lat": 30.5951051,
+        "lon": 114.2999353,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "湖北":
+    {
+        "valid": true,
+        "mentioned": 102,
+        "wuhan": false,
+        "area": true,
+        "lat": 31.1530504,
+        "lon": 112.8806423,
+        "description": "Province",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "中国":
+    {
+        "valid": true,
+        "mentioned": 37,
+        "wuhan": false,
+        "area": true,
+        "lat": 35.0000663,
+        "lon": 104.999955,
+        "description": "Country",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "中心医院":
+    {
+        "valid": true,
+        "mentioned": 23,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.582190447900153,
+        "lon": 114.29464851734622,
+        "description": "Hospital",
+        "source": "https://maps.app.goo.gl/4ScCoTJoTHYfeU647"
+    },
+    "汉口":
+    {
+        "valid": true,
+        "mentioned": 15,
+        "wuhan": true,
+        "area": true,
+        "lat": 30.581179,
+        "lon": 114.272597,
+        "description": "Part of Wuhan, refers to Jiang'an District, Jianghan District, and Qiaokou District.",
+        "source": "https://en.wikipedia.org/wiki/Hankou"
+    },
+    "武汉市":
+    {
+        "valid": true,
+        "mentioned": 15,
+        "wuhan": true,
+        "area": true,
+         "lat": 30.5951051,
+        "lon": 114.2999353,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "上海":
+    {
+        "valid": true,
+        "mentioned": 12,
+        "wuhan": false,
+        "area": true,
+        "lat": 31.2312707,
+        "lon": 121.4700152,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "文联":
+    {
+        "valid": null,
+        "mentioned": 12,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "新加坡":
+    {
+        "valid": true,
+        "mentioned": 11,
+        "wuhan": false,
+        "area": true,
+        "lat": 1.2805897518007732,
+        "lon": 103.84979035161551,
+        "description": "Country",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "汉":
+    {
+        "valid": true,
+        "mentioned": 11,
+        "wuhan": true,
+        "area": true,
+        "lat": 30.5951051,
+        "lon": 114.272597,
+        "description": "Wuhan, City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "武昌":
+    {
+        "valid": true,
+        "mentioned": 10,
+        "wuhan": true,
+        "area": true,
+        "lat": 30.5566998,
+        "lon": 114.3109847,
+        "description": "District",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "美国":
+    {
+        "valid": true,
+        "mentioned": 10,
+        "wuhan": false,
+        "area": true,
+        "lat": 39.7837304,
+        "lon": -100.445882,
+        "description": "Country",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "黄冈":
+    {
+        "valid": true,
+        "mentioned": 10,
+        "wuhan": false,
+        "area": true,
+        "lat": 30.4560187,
+        "lon": 114.8673226,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "成都":
+    {
+        "valid": true,
+        "mentioned": 9,
+        "wuhan": false,
+        "area": true,
+        "lat": 30.6598628,
+        "lon": 104.0633717,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "太阳":
+    {
+        "valid": false,
+        "mentioned": 9,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "武汉人":
+    {
+        "valid": false,
+        "mentioned": 9,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "武大":
+    {
+        "valid": true,
+        "mentioned": 8,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.541036563155025,
+        "lon": 114.36112182543168,
+        "description": "University",
+        "source": "https://zh.wikipedia.org/wiki/%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6"
+    },
+    "作协":
+    {
+        "valid": null,
+        "mentioned": 8,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "北京":
+    {
+        "valid": true,
+        "mentioned": 8,
+        "wuhan": false,
+        "area": true,
+        "lat": 40.190632,
+        "lon": 116.412144,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "华南":
+    {
+        "valid": false,
+        "mentioned": 7,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "东湖":
+    {
+        "valid": true,
+        "mentioned": 7,
+        "wuhan": true,
+        "area": true,
+        "lat": 30.558032913627756,
+        "lon": 114.39013716457524,
+        "description": "Lake",
+        "source": "https://maps.app.goo.gl/vXX43MXH9FqS5n5i9"
+    },
+    "重庆":
+    {
+        "valid": true,
+        "mentioned": 7,
+        "wuhan": false,
+        "area": true,
+        "lat": 30.05518,
+        "lon": 107.8748712,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "海南":
+    {
+        "valid": true,
+        "mentioned": 6,
+        "wuhan": false,
+        "area": true,
+        "lat": 19.2000001,
+        "lon": 109.5999999,
+        "description": "Province",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "贵州":
+    {
+        "valid": true,
+        "mentioned": 6,
+        "wuhan": false,
+        "area": true,
+        "lat": 27,
+        "lon": 107,
+        "description": "Province",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "省作协":
+    {
+        "valid": null,
+        "mentioned": 6,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "鄂":
+    {
+        "valid": true,
+        "mentioned": 5,
+        "wuhan": false,
+        "area": true,
+        "lat": 31.1530504,
+        "lon": 112.8806423,
+        "description": "Province (Hubei)",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "国家卫健委":
+    {
+        "valid": true,
+        "mentioned": 5,
+        "wuhan": false,
+        "area": false,
+        "lat": 39.93792770501244,
+        "lon":  116.35443070971462,
+        "description": "Department",
+        "source": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7%E5%A7%94%E5%91%98%E4%BC%9A"
+    },
+    "湖北省":
+    {
+        "valid": true,
+        "mentioned": 5,
+        "wuhan": false,
+        "area": true,
+        "lat": 31.1530504,
+        "lon": 112.8806423,
+        "description": "Province (Hubei)",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "财新":
+    {
+        "valid": false,
+        "mentioned": 5,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "中医学院":
+    {
+        "valid": null,
+        "mentioned": 5,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "中南医院":
+    {
+        "valid": true,
+        "mentioned": 5,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.56563476936055,
+        "lon": 114.36488613390922,
+        "description": "Hospital",
+        "source": "https://maps.app.goo.gl/weJejw57BotfppdQ7"
+    },
+    "希文合唱团":
+    {
+        "valid": false,
+        "mentioned": 5,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "汉口中心医院":
+    {
+        "valid": true,
+        "mentioned": 4,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.62489257593938,
+        "lon": 114.29973933033357,
+        "description": null,
+        "source": "https://maps.app.goo.gl/xsJZq8vWxNwELWdN8"
+    },
+    "广州":
+    {
+        "valid": true,
+        "mentioned": 4,
+        "wuhan": false,
+        "area": true,
+        "lat": 23.1301964,
+        "lon": 113.2592945,
+        "description": null,
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "百步亭":
+    {
+        "valid": null,
+        "mentioned": 4,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "日本":
+    {
+        "valid": true,
+        "mentioned": 4,
+        "wuhan": false,
+        "area": true,
+        "lat": 36.5748441,
+        "lon": 139.2394179,
+        "description": "Country",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "华科大":
+    {
+        "valid": true,
+        "mentioned": 4,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.513152163251238,
+        "lon": 114.4201790370768,
+        "description": "University",
+        "source": "https://maps.app.goo.gl/6b1Px5nH8BF5Jx1g7"
+    },
+    "南京":
+    {
+        "valid": true,
+        "mentioned": 4,
+        "wuhan": false,
+        "area": true,
+        "lat": 32.0438284,
+        "lon": 118.7788631,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "同济医院":
+    {
+        "valid": true,
+        "mentioned": 4,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.57875,
+        "lon": 114.261757,
+        "description": "Hospital",
+        "source": "https://en.wikipedia.org/wiki/Wuhan_Tongji_Hospital"
+    },
+    "长江日报":
+    {
+        "valid": false,
+        "mentioned": 4,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "弗兰":
+    {
+        "valid": null,
+        "mentioned": 4,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "山东":
+    {
+        "valid": true,
+        "mentioned": 4,
+        "wuhan": false,
+        "area": true,
+        "lat": 36.398987,
+        "lon": 118.5055691,
+        "description": "Province",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "深圳":
+    {
+        "valid": true,
+        "mentioned": 4,
+        "wuhan": false,
+        "area": true,
+        "lat": 22.5445741,
+        "lon": 114.0545429,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "中":
+    {
+        "valid": true,
+        "mentioned": 4,
+        "wuhan": false,
+        "area": true,
+        "lat": 35.0000663,
+        "lon": 104.999955,
+        "description": "Country",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "美":
+    {
+        "valid": true,
+        "mentioned": 4,
+        "wuhan": false,
+        "area": true,
+        "lat": 39.7837304,
+        "lon": -100.445882,
+        "description": "Country",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "广西":
+    {
+        "valid": true,
+        "mentioned": 4,
+        "wuhan": false,
+        "area": true,
+        "lat": 24,
+        "lon": 109,
+        "description": "Province",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "华南海鲜市场":
+    {
+        "valid": true,
+        "mentioned": 3,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.61695664229208,
+        "lon": 114.26277764330749,
+        "description": "Market",
+        "source": "https://en.wikipedia.org/wiki/Huanan_Seafood_Wholesale_Market"
+    },
+    "文联大院":
+    {
+        "valid": null,
+        "mentioned": 3,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "东湖绿道":
+    {
+        "valid": true,
+        "mentioned": 3,
+        "wuhan": true,
+        "area": true,
+        "lat": 30.551650815313838,
+        "lon": 114.41997684643528,
+        "description": "Road",
+        "source": "https://maps.app.goo.gl/KLufJBqmjMY5utHF6"
+    },
+    "中新社":
+    {
+        "valid": false,
+        "mentioned": 3,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "沈阳":
+    {
+        "valid": true,
+        "mentioned": 3,
+        "wuhan": false,
+        "area": true,
+        "lat": 41.8026095,
+        "lon": 123.4279105,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "火神山医院":
+    {
+        "valid": true,
+        "mentioned": 3,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.5297,
+        "lon": 114.0922,
+        "description": "Temporary hospital",
+        "source": "https://en.wikipedia.org/wiki/Huoshenshan_Hospital"
+    },
+    "汉阳":
+    {
+        "valid": true,
+        "mentioned": 3,
+        "wuhan": true,
+        "area": true,
+        "lat": 30.5566655,
+        "lon": 114.2131725,
+        "description": "District",
+        "source": null
+    },
+    "武昌区":
+    {
+        "valid": true,
+        "mentioned": 3,
+        "wuhan": true,
+        "area": true,
+        "lat": 30.5566998,
+        "lon": 114.3109847,
+        "description": "District",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "瑞德西韦":
+    {
+        "valid": false,
+        "mentioned": 3,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "央视":
+    {
+        "valid": false,
+        "mentioned": 3,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "湖南":
+    {
+        "valid": true,
+        "mentioned": 3,
+        "wuhan": false,
+        "area": true,
+        "lat": 27.6662087,
+        "lon": 111.7487063,
+        "description": "Province",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "匹兹堡":
+    {
+        "valid": true,
+        "mentioned": 3,
+        "wuhan": false,
+        "area": true,
+        "lat": 34.9327085,
+        "lon": -95.7625858,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "京城":
+    {
+        "valid": null,
+        "mentioned": 3,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "雷神医院":
+    {
+        "valid": true,
+        "mentioned": 3,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.4328,
+        "lon": 114.2863,
+        "description": "Temporary hospital",
+        "source": "https://en.wikipedia.org/wiki/Leishenshan_Hospital"
+    },
+    "天兴洲":
+    {
+        "valid": true,
+        "mentioned": 3,
+        "wuhan": true,
+        "area": true,
+        "lat": 30.664249778085843,
+        "lon": 114.39781869348967,
+        "description": "Island",
+        "source": "https://maps.app.goo.gl/72mD6ZW1USbf229D9"
+    },
+    "纪委":
+    {
+        "valid": false,
+        "mentioned": 3,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "福利院":
+    {
+        "valid": false,
+        "mentioned": 3,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "武汉市卫健委":
+    {
+        "valid": true,
+        "mentioned": 3,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.59166238492687,
+        "lon": 114.27999356290482,
+        "description": "Department",
+        "source": "https://wjw.wuhan.gov.cn/sy/"
+    },
+    "宁波":
+    {
+        "valid": true,
+        "mentioned": 3,
+        "wuhan": false,
+        "area": true,
+        "lat": 29.8622194,
+        "lon": 121.6203873,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "红卫兵":
+    {
+        "valid": false,
+        "mentioned": 3,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "武汉卫健委":
+    {
+        "valid": true,
+        "mentioned": 3,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.59166238492687,
+        "lon": 114.27999356290482,
+        "description": "Department",
+        "source": "https://wjw.wuhan.gov.cn/sy/"
+    },
+    "察网":
+    {
+        "valid": false,
+        "mentioned": 3,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "北大":
+    {
+        "valid": true,
+        "mentioned": 3,
+        "wuhan": false,
+        "area": false,
+        "lat": 39.987025957622215,
+        "lon": 116.305867882867,
+        "description": "University",
+        "source": "https://maps.app.goo.gl/19xRZsnduU6Hi3E47"
+    },
+    "东亭路":
+    {
+        "valid": true,
+        "mentioned": 2,
+        "wuhan": true,
+        "area": true,
+        "lat": 30.572240592486736,
+        "lon": 114.36473255635728,
+        "description": "Road",
+        "source": "https://maps.app.goo.gl/apUzLy5JkBxXgiCr7"
+    },
+    "历史系":
+    {
+        "valid": null,
+        "mentioned": 2,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "中文系":
+    {
+        "valid": null,
+        "mentioned": 2,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "武大中文系":
+    {
+        "valid": true,
+        "mentioned": 2,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.538972833139773,
+        "lon": 114.36749832013055,
+        "description": "University",
+        "source": "https://maps.app.goo.gl/xx9iL9nSAt5qpewr7"
+    },
+    "火神山":
+    {
+        "valid": true,
+        "mentioned": 3,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.5302,
+        "lon": 114.0825,
+        "description": "Temporary hospital",
+        "source": "https://en.wikipedia.org/wiki/Huoshenshan_Hospital"
+    },
+    "洪山交管局":
+    {
+        "valid": true,
+        "mentioned": 2,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.48060190548926,
+        "lon": 114.33667210471236,
+        "description": "Department",
+        "source": null
+    },
+    "华中科技大学":
+    {
+        "valid": true,
+        "mentioned": 4,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.513152163251238,
+        "lon": 114.4201790370768,
+        "description": "University",
+        "source": "https://maps.app.goo.gl/6b1Px5nH8BF5Jx1g7"
+    },
+    "洪山区":
+    {
+        "valid": true,
+        "mentioned": 2,
+        "wuhan": true,
+        "area": true,
+        "lat": 30.5028043,
+        "lon": 114.3378431,
+        "description": "District",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "江夏":
+    {
+        "valid": true,
+        "mentioned": 2,
+        "wuhan": true,
+        "area": true,
+        "lat": 30.3780494,
+        "lon": 114.3161693,
+        "description": "District",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "四川":
+    {
+        "valid": true,
+        "mentioned": 2,
+        "wuhan": false,
+        "area": true,
+        "lat": 30.5000001,
+        "lon": 102.4999999,
+        "description": "Province",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "武昌城":
+    {
+        "valid": false,
+        "mentioned": 2,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "金银潭医院":
+    {
+        "valid": true,
+        "mentioned": 2,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.66707216743432,
+        "lon": 114.2868935060496,
+        "description": "Hospital",
+        "source": "https://maps.app.goo.gl/7FsuY8hNN4LYAQtY8"
+    },
+    "江苏":
+    {
+        "valid": true,
+        "mentioned": 2,
+        "wuhan": false,
+        "area": true,
+        "lat": 33.0000001,
+        "lon": 119.9999999,
+        "description": "Province",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "方舱医院":
+    {
+        "valid": false,
+        "mentioned": 2,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "江岸区":
+    {
+        "valid": true,
+        "mentioned": 2,
+        "wuhan": true,
+        "area": true,
+        "lat": 30.58333,
+        "lon": 114.26667,
+        "description": "District",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "淘宝":
+    {
+        "valid": false,
+        "mentioned": 2,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "宠物医院":
+    {
+        "valid": false,
+        "mentioned": 2,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "云南":
+    {
+        "valid": true,
+        "mentioned": 2,
+        "wuhan": false,
+        "area": true,
+        "lat": 25,
+        "lon": 102,
+        "description": "Province",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "长江文艺杂志":
+    {
+        "valid": false,
+        "mentioned": 2,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "雷神山":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.4328,
+        "lon": 114.2863,
+        "description": "Temporary hospital",
+        "source": "https://zh.wikipedia.org/zh-hans/%E9%9B%B7%E7%A5%9E%E5%B1%B1%E5%8C%BB%E9%99%A2"
+    },
+    "飞象网":
+    {
+        "valid": false,
+        "mentioned": 2,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "协和医院":
+    {
+        "valid": true,
+        "mentioned": 2,
+        "wuhan": false,
+        "area": false,
+        "lat": 39.9112,
+        "lon": 116.4089,
+        "description": "Hospital",
+        "source": "https://en.wikipedia.org/wiki/Peking_Union_Medical_College_Hospital"
+    },
+    "仟吉":
+    {
+        "valid": false,
+        "mentioned": 2,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "长江":
+    {
+        "valid": true,
+        "mentioned": 2,
+        "wuhan": true,
+        "area": true,
+        "lat": 30.342563068156007,
+        "lon": 114.11301397866565,
+        "description": "River",
+        "source": "https://maps.app.goo.gl/uM7TA3CPWdvYAN676"
+    },
+    "白沙洲":
+    {
+        "valid": true,
+        "mentioned": 2,
+        "wuhan": true,
+        "area": true,
+        "lat": 30.49543740377028,
+        "lon": 114.25802437184323,
+        "description": "Island",
+        "source": "https://maps.app.goo.gl/mKRCwc6zSb1CH8bu7"
+    },
+    "澳门":
+    {
+        "valid": true,
+        "mentioned": 2,
+        "wuhan": false,
+        "area": true,
+        "lat": 22.1757605,
+        "lon": 113.5514142,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "八舍":
+    {
+        "valid": false,
+        "mentioned": 2,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "黄河":
+    {
+        "valid": false,
+        "mentioned": 2,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "长报":
+    {
+        "valid": false,
+        "mentioned": 2,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "国家队":
+    {
+        "valid": false,
+        "mentioned": 2,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "市卫健委":
+    {
+        "valid": true,
+        "mentioned": 3,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.59166238492687,
+        "lon": 114.27999356290482,
+        "description": "Department",
+        "source": "https://wjw.wuhan.gov.cn/sy/"
+    },
+    "卫健委":
+    {
+        "valid": true,
+        "mentioned": 3,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.59166238492687,
+        "lon": 114.27999356290482,
+        "description": "Department",
+        "source": "https://wjw.wuhan.gov.cn/sy/"
+    },
+    "广东":
+    {
+        "valid": true,
+        "mentioned": 2,
+        "wuhan": false,
+        "area": true,
+        "lat": 23.1357694,
+        "lon": 113.1982688,
+        "description": "Province",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "武汉医院":
+    {
+        "valid": null,
+        "mentioned": 2,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "市二医院":
+    {
+        "valid": true,
+        "mentioned": 2,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.58162848268251,
+        "lon": 114.29471879302898,
+        "description": "Hospital",
+        "source": "https://maps.app.goo.gl/wY3MY7WAMRC9oXhx8"
+    },
+    "武汉中心医院":
+    {
+        "valid": true,
+        "mentioned": 2,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.581243715397367,
+        "lon": 114.29481932474701,
+        "description": "Hospital",
+        "source": "https://maps.app.goo.gl/67RYkJyvb7P5VrLJ8"
+    },
+    "泌外科":
+    {
+        "valid": false,
+        "mentioned": 2,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "湖北日报传媒集团":
+    {
+        "valid": false,
+        "mentioned": 2,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "老年合唱团":
+    {
+        "valid": false,
+        "mentioned": 2,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "黄埔":
+    {
+        "valid": true,
+        "mentioned": 2,
+        "wuhan": false,
+        "area": true,
+        "lat": 23.1277,
+        "lon": 113.2512,
+        "description": "District (Guangzhou)",
+        "source": "https://en.wikipedia.org/wiki/Huangpu,_Guangzhou"
+    },
+    "武汉大学":
+    {
+        "valid": true,
+        "mentioned": 8,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.541036563155025,
+        "lon": 114.36112182543168,
+        "description": "University",
+        "source": "https://zh.wikipedia.org/wiki/%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6"
+    },
+    "老通城":
+    {
+        "valid": true,
+        "mentioned": 2,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.58705687477141,
+        "lon": 114.29421426776209,
+        "description": "Store",
+        "source": "https://maps.app.goo.gl/ua6pfpehDV3FWQdC6"
+    },
+    "通城":
+    {
+        "valid": false,
+        "mentioned": 2,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "湖北大学":
+    {
+        "valid": true,
+        "mentioned": 2,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.579244287057854,
+        "lon": 114.33146742888839,
+        "description": "University",
+        "source": "https://maps.app.goo.gl/cburKrcZRF5WduyaA"
+    },
+    "粤":
+    {
+        "valid": true,
+        "mentioned": 2,
+        "wuhan": false,
+        "area": true,
+        "lat": 23.1357694,
+        "lon": 113.1982688,
+        "description": "Province",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "影子梦之队":
+    {
+        "valid": false,
+        "mentioned": 2,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "新浪网":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "日":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "鲜花":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "沂蒙山":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "中国新闻通讯社":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "河南":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": true,
+        "lat": 34.0000001,
+        "lon": 113.9999999,
+        "description": "Province",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "庐山":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "莲花清":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "市府":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "绿道":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "湖大":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": false,
+        "lat": 28.179986512571578,
+        "lon": 112.94380541730413,
+        "description": "University",
+        "source": "https://maps.app.goo.gl/rciyEq36VqoqiUzb7"
+    },
+    "中国新闻社":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "省歌舞团":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "湖北作家协会":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "红军":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "二环":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "清华":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": false,
+        "lat": 39.99987242391538,
+        "lon": 116.3265183448781,
+        "description": "University",
+        "source": "https://maps.app.goo.gl/4aWf5Qw2XHfXu8nT7"
+    },
+    "零下":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "市场":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "武汉晚报":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "专家组":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "陈村":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "北伐军":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "雷神山医院":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.4328,
+        "lon": 114.2863,
+        "description": "Temporary hospital",
+        "source": "https://zh.wikipedia.org/zh-hans/%E9%9B%B7%E7%A5%9E%E5%B1%B1%E5%8C%BB%E9%99%A2"
+    },
+    "会展中心":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "中南医院呼吸科":
+    {
+        "valid": true,
+        "mentioned": 5,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.56563476936055,
+        "lon": 114.36488613390922,
+        "description": "Hospital",
+        "source": "https://maps.app.goo.gl/weJejw57BotfppdQ7"
+    },
+    "同济":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": false,
+        "lat": 31.28334937977118,
+        "lon": 121.5008285745729,
+        "description": "University",
+        "source": "https://maps.app.goo.gl/orAwU1BVVaQwzo24A"
+    },
+    "四号":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "孝感":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": true,
+        "lat": 30.926188799700963,
+        "lon": 113.91620301561632,
+        "description": "City",
+        "source": "https://maps.app.goo.gl/DnPRvzY7gzmFk4Rt7"
+    },
+    "洪山体育馆":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.54530389852658,
+        "lon": 114.33410674440032,
+        "description": "Stadium",
+        "source": "https://maps.app.goo.gl/UYzr3JQjmev5SKeM8"
+    },
+    "艳阳天":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.602071264980786,
+        "lon": 114.30417672577818,
+        "description": "Restaurant",
+        "source": "https://maps.app.goo.gl/PuGhQpaXTD12LtYr8"
+    },
+    "华":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "中心医院眼科":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.58119938495733,
+        "lon": 114.29572667722326,
+        "description": "Hospital",
+        "source": "https://maps.app.goo.gl/W1KMhgLVLLG6jnU1A"
+    },
+    "火":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "医院":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "江北":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "江南":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "江汉区":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": true,
+        "lat": 30.6041382,
+        "lon": 114.2653871,
+        "description": "District",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "江夏区":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": true,
+        "lat": 30.3780494,
+        "lon": 114.3161693,
+        "description": "District",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "央视纪录片部":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "市妇幼":
+    {
+        "valid": null,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "盈江县":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": true,
+        "lat": 24.8677811,
+        "lon": 97.945787,
+        "description": "County (Yunnan)",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "盈江":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "共产党":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "新中国":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "匹兹堡市":
+    {
+        "valid": true,
+        "mentioned": 3,
+        "wuhan": false,
+        "area": true,
+        "lat": 34.9327085,
+        "lon": -95.7625858,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "国航":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "扬州":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": true,
+        "lat": 32.3968554,
+        "lon": 119.4077658,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "丰巢":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "江东":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "肿瘤医院":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "新浪":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "省人民医院":
+    {
+        "valid": null,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "新冠肺炎":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "省文联大院":
+    {
+        "valid": null,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "湖北电影制片场":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "解放军":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "“弗兰”援军":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "湖北电影制片厂":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "财新网":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "纽约":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": true,
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "德国":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": true,
+        "lat": 51.1638175,
+        "lon": 10.4478313,
+        "description": "Country",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "苏":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "法国":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": true,
+        "lat": 46.603354,
+        "lon": 1.8883335,
+        "description": "Country",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "联合国":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "寿光":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": true,
+        "lat": 36.8762356,
+        "lon": 118.7322549,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "武昌医院":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.606285814223543,
+        "lon": 114.34105389065867,
+        "description": "Hospital",
+        "source": "https://maps.app.goo.gl/2kcFFr37K7oQBjwp7"
+    },
+    "火神":
+    {
+        "valid": true,
+        "mentioned": 3,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.5297,
+        "lon": 114.0922,
+        "description": "Temporary hospital",
+        "source": "https://en.wikipedia.org/wiki/Huoshenshan_Hospital"
+    },
+    "雷神":
+    {
+        "valid": true,
+        "mentioned": 3,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.4328,
+        "lon": 114.2863,
+        "description": "Temporary hospital",
+        "source": "https://en.wikipedia.org/wiki/Leishenshan_Hospital"
+    },
+    "满屏":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "援汉医疗队":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "中山公园":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": true,
+        "lat": 30.589002516198484,
+        "lon": 114.27098456396062,
+        "description": "Park",
+        "source": "https://maps.app.goo.gl/Updy6yjUf8YmmGv57"
+    },
+    "解放公园":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": true,
+        "lat": 30.607632010623977,
+        "lon": 114.29951123595647,
+        "description": "Park",
+        "source": "https://maps.app.goo.gl/WJobKZHPP3C1FNLu6"
+    },
+    "落雁岛":
+    {
+        "valid": null,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "黄鹤楼":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "中南建筑设计院":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.540452868809187,
+        "lon": 114.33324232300816,
+        "description": "Company",
+        "source": "https://maps.app.goo.gl/tW76yizJdAgexggd7"
+    },
+    "三镇":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "湖北日报":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "后湖":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "满园":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "武汉植物园":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": true,
+        "lat": 30.54290152793501,
+        "lon": 114.4199247397807,
+        "description": "Park",
+        "source": "https://maps.app.goo.gl/VSYcrLtcLguUmHZH9"
+    },
+    "江中":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "二七路":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "中华":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "中百超市":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "老八舍":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "汶川":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": true,
+        "lat": 31.2017094,
+        "lon": 103.3354765,
+        "description": "County",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "太阳能":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "武汉疫情防控指挥部":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "开城":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "中国电信":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "中国移动":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "中国联通":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "杭州":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": true,
+        "lat": 30.2489634,
+        "lon": 120.2052342,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "大疆":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "《今日名流》杂志":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "养老院":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "康养中心":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "世卫组织":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "沃尔玛":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "世界卫生组织":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "洗狗池":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "罗田泡":
+    {
+        "valid": null,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "温泉":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "罗田三里畈温泉酒店":
+    {
+        "valid": null,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "黄冈市委":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "华中科技大学电力工程系":
+    {
+        "valid": true,
+        "mentioned": 4,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.513152163251238,
+        "lon": 114.4201790370768,
+        "description": "University",
+        "source": "https://maps.app.goo.gl/6b1Px5nH8BF5Jx1g7"
+    },
+    "财经":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "浙江大学":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": false,
+        "lat": 30.308928534565403,
+        "lon": 120.08650975980831,
+        "description": "University",
+        "source": "https://maps.app.goo.gl/sh3Dmx91nDUrshVq5"
+    },
+    "苏利文":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "南方都市报":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "楼":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "淄博":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": true,
+        "lat": 36.8129564,
+        "lon": 118.0488401,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "蓝天救援队":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "中南医院ICU":
+    {
+        "valid": true,
+        "mentioned": 5,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.56563476936055,
+        "lon": 114.36488613390922,
+        "description": "Hospital",
+        "source": "https://maps.app.goo.gl/weJejw57BotfppdQ7"
+    },
+    "市中心医院":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.581700879115047,
+        "lon": 114.2957770730126,
+        "description": "Hospital",
+        "source": "https://maps.app.goo.gl/2M9cjA8z2K3ZByTLA"
+    },
+    "汉口医院":
+    {
+        "valid": true,
+        "mentioned": 4,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.62489257593938,
+        "lon": 114.29973933033357,
+        "description": null,
+        "source": "https://maps.app.goo.gl/xsJZq8vWxNwELWdN8"
+    },
+    "中国新闻周刊":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "金银潭":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.66707317038023,
+        "lon": 114.2868979407768,
+        "description": "Hospital",
+        "source": "https://maps.app.goo.gl/8qHSLG5QSg3BgrGN6"
+    },
+    "李文亮科室":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "武汉二医院":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.581775887352414,
+        "lon": 114.29469353892648,
+        "description": "Hospital",
+        "source": "https://maps.app.goo.gl/4uhX1v7gEDSXid188"
+    },
+    "南京路":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "二医院":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "汉口天主堂医院":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.5835,
+        "lon": 114.2897,
+        "description": "Hospital (old name for 武汉市中心医院)",
+        "source": "https://en.wikipedia.org/wiki/Central_Hospital_of_Wuhan"
+    },
+    "日军":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "楚天新传媒":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "中心":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "武汉市中心医院":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.581700879115047,
+        "lon": 114.2957770730126,
+        "description": "Hospital",
+        "source": "https://maps.app.goo.gl/2M9cjA8z2K3ZByTLA"
+    },
+    "护理部":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "急诊科":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "万科":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "一":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "加多":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "60号":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "天安门":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "武汉市文化局":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.576107767362917,
+        "lon": 114.29747582728038,
+        "description": "Department",
+        "source": "https://maps.app.goo.gl/EA39LZ7biMCZocMA9"
+    },
+    "呼吸科":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "小汤山":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": true,
+        "lat": 40.17663,
+        "lon": 116.38456,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "武汉宁波商会":
+    {
+        "valid": null,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "华中师大":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.521335431678235,
+        "lon": 114.35698082738293,
+        "description": "Hospital",
+        "source": "https://maps.app.goo.gl/hEZWkap5t9taMaWU7"
+    },
+    "泉州欣佳酒店":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": false,
+        "lat": 24.916660619548875,
+        "lon": 118.49961961864658,
+        "description": "Hotel",
+        "source": "https://en.wikipedia.org/wiki/Collapse_of_Xinjia_Express_Hotel"
+    },
+    "香港":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": true,
+        "lat": 22.350627,
+        "lon": 114.1849161,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "世卫组织新冠肺炎联合考察组":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "香港特区政府专家顾问团":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "湖北省疾控中心":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.524017375145753,
+        "lon": 114.37258219107554,
+        "description": "Department",
+        "source": "https://maps.app.goo.gl/acSXoGo7LQLDkHr68"
+    },
+    "武汉疾控中心":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.590295686725984,
+        "lon": 114.28016198178223,
+        "description": "Department",
+        "source": "https://maps.app.goo.gl/7iGjNuX6CvanREV99"
+    },
+    "湖北卫健委":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "田汉":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.561277189967655,
+        "lon": 114.34917939659677,
+        "description": "Theater",
+        "source": "https://maps.app.goo.gl/4WPp2YC7JE1xE63SA"
+    },
+    "国家卫生健康委":
+    {
+        "valid": true,
+        "mentioned": 5,
+        "wuhan": false,
+        "area": false,
+        "lat": 39.93792770501244,
+        "lon":  116.35443070971462,
+        "description": "Department",
+        "source": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7%E5%A7%94%E5%91%98%E4%BC%9A"
+    },
+    "泰国卫生部":
+    {
+        "valid": null,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "骚客文艺":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "非洲":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": true,
+        "lat": 7.1881,
+        "lon": 21.09375,
+        "description": "Continent",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "作协党组":
+    {
+        "valid": null,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "湖北省疫情防控指挥部":
+    {
+        "valid": null,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "武汉中心医院甲乳外科":
+    {
+        "valid": true,
+        "mentioned": 2,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.581243715397367,
+        "lon": 114.29481932474701,
+        "description": "Hospital",
+        "source": "https://maps.app.goo.gl/67RYkJyvb7P5VrLJ8"
+    },
+    "《人物》杂志":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "伦理委员会":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "胸外科":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "今日湖北网":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "湖北省新闻工作者协会":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "新":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "武汉市公安局":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.61432392452989,
+        "lon": 114.25842516249078,
+        "description": "Department",
+        "source": "https://maps.app.goo.gl/ML5HV6Nefb3ZsMwP6"
+    },
+    "市公安局":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "党组":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "老斋舍":
+    {
+        "valid": null,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "南方人物周刊":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "卫健委高级别专家组":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "「方方封城日记」编辑部":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "西湖":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "芦花港":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "北京中日友好医院":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": false,
+        "lat": 39.97401241239311,
+        "lon": 116.4269900987565,
+        "description": "Hospital",
+        "source": "https://maps.app.goo.gl/c1deA7SZnzUvLRJx5"
+    },
+    "中心医院胸外科":
+    {
+         "valid": true,
+        "mentioned": 23,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.582190447900153,
+        "lon": 114.29464851734622,
+        "description": "Hospital",
+        "source": "https://maps.app.goo.gl/4ScCoTJoTHYfeU647"
+    },
+    "青山区":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": true,
+        "lat": 30.6421206,
+        "lon": 114.3797804,
+        "description": "District",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "长江日报报业集团":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "百度":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "长报集团":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "省黄埔军校同学会":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "希利达女中":
+    {
+        "valid": null,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "文华中学":
+    {
+        "valid": null,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "范湖":
+    {
+        "valid": null,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "政治":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "柏林":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": true,
+        "lat": 52.510885,
+        "lon": 13.3989367,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "居委会":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "蕲春县":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": true,
+        "lat": 30.220155569393743,
+        "lon": 115.43198739782619,
+        "description": "County",
+        "source": "https://maps.app.goo.gl/nwxZQa6FMrKUNu978"
+    },
+    "蕲春":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "襄阳市":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": true,
+        "lat": 32.010998,
+        "lon": 112.1163785,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "襄阳":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "四川医疗队":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "湘":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "维空间":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "省人大":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "省政协":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "荆州":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": true,
+        "lat": 30.3375612,
+        "lon": 112.2337264,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net/"
+    },
+    "新华社":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "中南派出所":
+    {
+        "valid": null,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "复阳":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "医院伦理委员会":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "北京大学":
+    {
+        "valid": true,
+        "mentioned": 3,
+        "wuhan": false,
+        "area": false,
+        "lat": 39.987025957622215,
+        "lon": 116.305867882867,
+        "description": "University",
+        "source": "https://maps.app.goo.gl/19xRZsnduU6Hi3E47"
+    },
+    "扶贫办":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "“":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "团队":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "加拿大":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": true,
+        "lat": 61.0666922,
+        "lon": -107.991707,
+        "description": "Country",
+        "source": "https://www.gps-coordinates.net"
+    },
+    "哈佛":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": false,
+        "lat": 42.3657432,
+        "lon": -71.1222139,
+        "description": "University",
+        "source": "https://www.gps-coordinates.net"
+    },
+    "麻省总医院":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": false,
+        "lat": 42.36270333058002,
+        "lon": -71.06836495484711,
+        "description": "Hospital",
+        "source": "https://maps.app.goo.gl/MkBaWXfqv6ywcE4h6"
+    },
+    "西门口":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "帝吧官微":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "汉口火车站":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.618880037797002,
+        "lon": 114.25504291534162,
+        "description": "Train station",
+        "source": "https://maps.app.goo.gl/Jxyi14zQPbFdxgpo9"
+    },
+    "南宁":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": true,
+        "lat": 22.8157737,
+        "lon": 108.318024,
+        "description": "City",
+        "source": "https://www.gps-coordinates.net"
+    },
+    "广东人":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "京":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    },
+    "华中科技大学附属协和医院":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": true,
+        "area": false,
+        "lat": 30.5859,
+        "lon": 114.2715,
+        "description": "Hospital",
+        "source": "https://zh.wikipedia.org/zh-hans/%E5%8D%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%90%8C%E6%B5%8E%E5%8C%BB%E5%AD%A6%E9%99%A2%E9%99%84%E5%B1%9E%E5%8D%8F%E5%92%8C%E5%8C%BB%E9%99%A2"
+    },
+    "南京大学":
+    {
+        "valid": true,
+        "mentioned": 1,
+        "wuhan": false,
+        "area": false,
+        "lat": 32.05700274646857,
+        "lon": 118.7790245696531,
+        "description": "University",
+        "source": "https://maps.app.goo.gl/auaCiF8ixgtWfdG68"
+    },
+    "联署":
+    {
+        "valid": false,
+        "mentioned": 1,
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null,
+        "source": null
+    }
+}

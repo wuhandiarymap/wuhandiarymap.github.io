@@ -1,0 +1,49 @@
+body {
+	font-family: "Helvetica";
+}
+
+.title {
+	font-size: 60px;
+	margin: 10px;
+}
+
+.center {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+
+iframe {
+	width: 700px;
+	height: 750px;
+	border: none;
+}
+
+p {
+	padding-left: 10px;
+	margin-bottom: 0px;
+	margin-right: auto;
+	text-align: justify; 
+	display: inline-block;
+}
+
+.info {
+	margin-top: 8px;
+	width: 700px;
+	height: 750px;
+	background-color: #FAFAF8;
+}
+
+#datepicker {
+	border: none;
+	outline: none;
+	margin: 10px;
+	font-size: 25px;
+	font-family: "Helvetica";
+}

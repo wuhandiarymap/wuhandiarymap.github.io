@@ -1,0 +1,10 @@
+Include
+Lib
+Scripts
+Share
+src/__pycache__
+src/diary
+src/notes.md
+src/sources.md
+src/test.py
+pyvenv.cfg

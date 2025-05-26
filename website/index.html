@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Diary on a Map</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div class="center">	
+		<h1 class="title">Diary on a Map</h1>
+		<h3>Visuallizing Fang Fang's diary about the 2020 lockdown in Wuhan</h3>
+		<input type="date" id="datepicker" value="2020-01-25" min="2020-01-25" max="2020-03-24"><br>
+		<div class="grid">
+			<iframe src="maps/2020-01-26.html" id="map" scrolling="no"></iframe>
+			<div class="info">
+				<div class="center">
+					<h2 style="font-family: 'Kaiti';">武汉日记</h2>
+					<p>
+						Between January 25 and March 24 in 2020, Fang Fang (方方) wrote daily diary entries about the situation in Wuhan and published them online. This project is an effort to visualize the locations she mentioned each day.
+					</p>
+					<p>
+						The map on the left shows Wuhan and its districts. If a district is green, it was mentioned in the diary entry. Red circles are places she mentioned. Hover, and click on them for more information. Zoom out to see locations outside of Wuhan.
+					</p>
+					<p>
+						The locations were automatically identified using <a href="https://hanlp.hankcs.com/docs/index.html">HanLP</a>, and the coordinates were looked up manually. The maps were generated using <a href="https://plotly.com/">Plotly</a>. Some locations might not be on the map. For more information regarding the data, code, and how to contribute, see the GitHub repository.
+					</p>
+					
+					<h2 id="date"></h2>
+					<p id="title"></p>
+					<p id="source"></p>
+
+					<h2 id="location"></h2>
+					<p id="mentioned"></p>
+					<p id="mentioned_total"></p>
+					<p id="context"></p>
+					<p id="description"></p>
+					
+				</div> 
+			</div>
+		</div>
+		
+	</div>
+	
+	<script src="js.js"></script>
+</body>
+</html>
