@@ -15,7 +15,7 @@ for k, v in results.items():
 
 unique = {k: v for k, v in sorted(unique.items(), key=lambda item: item[1]["mentioned"], reverse=True)}
 print(len(unique))
-with open("../data/unique_locations.json", "w", encoding="utf-8") as file:
+with open("../data/locations_info.json", "w", encoding="utf-8") as file:
 	file.write(json.dumps(unique))
 
 
