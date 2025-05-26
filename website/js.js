@@ -34,7 +34,7 @@ function updateUI(selectedDate) {
     mapFrame.src = "maps/" + selectedDate + ".html";
     date.innerHTML = selectedDate;
     title.innerHTML = "<b>Title: </b>" + meta_data[selectedDate]["title"];
-    source.innerHTML = "<b>Source: </b>" + "<a href='" + meta_data[selectedDate]["source"] + "'>" + meta_data[selectedDate]["source"] + "</a>";
+    source.innerHTML = "<b>Source: </b>" + "<a target='_blank' rel='noopener noreferrer' href='" + meta_data[selectedDate]["source"] + "'>" + meta_data[selectedDate]["source"] + "</a>";
     location_name.innerHTML = "";
     mentioned.innerHTML = "";
     mentioned_total.innerHTML = "";
