@@ -359,7 +359,7 @@
         "area": false,
         "lat": 30.62489257593938,
         "lon": 114.29973933033357,
-        "description": null,
+        "description": "Hospital",
         "source": "https://maps.app.goo.gl/xsJZq8vWxNwELWdN8"
     },
     "广州":
@@ -370,7 +370,7 @@
         "area": true,
         "lat": 23.1301964,
         "lon": 113.2592945,
-        "description": null,
+        "description": "Province",
         "source": "https://www.gps-coordinates.net/"
     },
     "百步亭":
@@ -632,10 +632,10 @@
         "mentioned": 3,
         "wuhan": false,
         "area": true,
-        "lat": 34.9327085,
-        "lon": -95.7625858,
+        "lat": 40.441180425901706,
+        "lon": -79.99705702202287,
         "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://maps.app.goo.gl/UrN2hdLhFVgjfJGL9"
     },
     "京城":
     {
@@ -1765,10 +1765,10 @@
         "mentioned": 3,
         "wuhan": false,
         "area": true,
-        "lat": 34.9327085,
-        "lon": -95.7625858,
+        "lat": 40.441180425901706,
+        "lon": -79.99705702202287,
         "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://maps.app.goo.gl/UrN2hdLhFVgjfJGL9"
     },
     "国航":
     {

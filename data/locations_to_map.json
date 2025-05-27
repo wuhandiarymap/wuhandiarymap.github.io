@@ -2,7 +2,7 @@
     "2020-01-25":
     {
         "source": "https://fangfang.blog.caixin.com/archives/223229",
-        "title": "作家方方：高科技作起恶来，一点不比瘟疫弱（1",
+        "title": "作家方方：高科技作起恶来，一点不比瘟疫弱（1）",
         "locations":
         {
             "新浪网":
@@ -122,7 +122,7 @@
                 "area": false,
                 "lat": 30.62489257593938,
                 "lon": 114.29973933033357,
-                "description": null,
+                "description": "Hospital",
                 "info_source": "https://maps.app.goo.gl/xsJZq8vWxNwELWdN8"
             },
             "武昌":
@@ -178,7 +178,7 @@
                 "area": true,
                 "lat": 23.1301964,
                 "lon": 113.2592945,
-                "description": null,
+                "description": "Province",
                 "info_source": "https://www.gps-coordinates.net/"
             },
             "新加坡":
@@ -1080,7 +1080,7 @@
                 "area": false,
                 "lat": 30.62489257593938,
                 "lon": 114.29973933033357,
-                "description": null,
+                "description": "Hospital",
                 "info_source": "https://maps.app.goo.gl/xsJZq8vWxNwELWdN8"
             },
             "华南海鲜市场":
@@ -1482,7 +1482,7 @@
                 "area": true,
                 "lat": 23.1301964,
                 "lon": 113.2592945,
-                "description": null,
+                "description": "Province",
                 "info_source": "https://www.gps-coordinates.net/"
             }
         }
@@ -2700,10 +2700,10 @@
                 "valid": true,
                 "wuhan": false,
                 "area": true,
-                "lat": 34.9327085,
-                "lon": -95.7625858,
+                "lat": 40.441180425901706,
+                "lon": -79.99705702202287,
                 "description": "City",
-                "info_source": "https://www.gps-coordinates.net/"
+                "info_source": "https://maps.app.goo.gl/UrN2hdLhFVgjfJGL9"
             },
             "中国":
             {
@@ -2756,10 +2756,10 @@
                 "valid": true,
                 "wuhan": false,
                 "area": true,
-                "lat": 34.9327085,
-                "lon": -95.7625858,
+                "lat": 40.441180425901706,
+                "lon": -79.99705702202287,
                 "description": "City",
-                "info_source": "https://www.gps-coordinates.net/"
+                "info_source": "https://maps.app.goo.gl/UrN2hdLhFVgjfJGL9"
             },
             "扬州":
             {
@@ -8582,7 +8582,7 @@
                 "area": true,
                 "lat": 23.1301964,
                 "lon": 113.2592945,
-                "description": null,
+                "description": "Province",
                 "info_source": "https://www.gps-coordinates.net/"
             },
             "广东":
