@@ -19,6 +19,19 @@ body {
 	grid-template-columns: 1fr 1fr;
 }
 
+.controls {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+
+.button {
+	font-size: 25px;
+	background-color: #FAFAF8;
+	border: none;
+	background-color: white;
+	cursor: pointer;
+}
+
 iframe {
 	width: 700px;
 	height: 750px;
