@@ -15,11 +15,6 @@ class MapMaker():
 		gdf["name"] = gdf["name"].str[:-1]
 		gdf["info"] = gdf["name"].map(districts)
 		
-		# print(districts)
-		# print(gdf)
-		# print(gdf["info"])
-		# input()
-		
 		if districts:
 			gdf["highlight"] = gdf["name"].apply(lambda x: 1 if x.replace("区", "") in districts.keys() else 0)
 
