@@ -24,6 +24,14 @@ body {
 	grid-template-columns: 1fr 1fr 1fr;
 }
 
+#datepicker {
+	border: none;
+	outline: none;
+	margin: 10px;
+	font-size: 25px;
+	font-family: "Helvetica";
+}
+
 #back {
 	font-size: 25px;
 	background-color: #FAFAF8;
@@ -62,14 +70,6 @@ p {
 	width: 700px;
 	height: 750px;
 	background-color: #FAFAF8;
-}
-
-#datepicker {
-	border: none;
-	outline: none;
-	margin: 10px;
-	font-size: 25px;
-	font-family: "Helvetica";
 }
 
 .toggle-container {

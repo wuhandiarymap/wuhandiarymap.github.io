@@ -14,23 +14,16 @@ const description = document.getElementById("description");
 
 fetch("meta_data.json")
     .then(response => {
-        if (!response.ok) {
-            throw new Error("couldn't get json file");
-        }
         return response.json();
     })
     .then(data => {
         meta_data = data;
         updateUI(dateInput.value);
     })
-    .catch(error => {
-        console.error("error fetching json file:", error);
-    });
 
 dateInput.addEventListener("change", function() {
     updateUI(this.value);
 });
-
 
 checkbox.addEventListener("change", function() {
     updateUI(dateInput.value);
@@ -92,10 +85,8 @@ function get_click(date) {
             clearInterval(interval);
 
             plot.on("plotly_click", function(data) {
-                console.log(data.points[0])
                 if (data.points[0]["data"]["type"] == "scattermap") {
                     const location_data = data.points[0]["data"]["customdata"];
-                    console.log(location_data)
                     location_name.innerHTML = location_data[0];
                     mentioned.innerHTML = "<b>Mentioned this day: </b>" + location_data[1];
                     mentioned_total.innerHTML = "<b>Mentioned total: </b>" + location_data[2];
@@ -104,7 +95,6 @@ function get_click(date) {
                 } else {
                     const index = data.points[0]["pointIndex"];
                     const location_data = data.points[0]["data"]["customdata"][index][0];
-                    console.log(location_data)
                     location_name.innerHTML = location_data[0];
                     mentioned.innerHTML = "<b>Mentioned this day: </b>" + location_data[1];
                     mentioned_total.innerHTML = "<b>Mentioned total: </b>" + location_data[2];
