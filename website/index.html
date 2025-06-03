@@ -11,9 +11,9 @@
 		<h1 class="title">Diary on a Map</h1>
 		<h3>Visualizing Fang Fang's diary about the 2020 lockdown in Wuhan</h3>
 		<div class="controls">
-			<button class="button" onclick="back()">◄</button>
+			<button id="back" onclick="back()">◄</button>
 			<input type="date" id="datepicker" value="2020-01-25" min="2020-01-25" max="2020-03-24">
-			<button class="button" onclick="next()">►</button>
+			<button id="next" onclick="next()">►</button>
 		</div>
 		<div class="grid">
 			<iframe src="maps/2020-01-26.html" id="map" scrolling="no"></iframe>

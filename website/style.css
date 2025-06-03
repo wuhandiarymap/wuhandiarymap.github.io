@@ -24,13 +24,24 @@ body {
 	grid-template-columns: 1fr 1fr 1fr;
 }
 
-.button {
+#back {
 	font-size: 25px;
 	background-color: #FAFAF8;
 	border: none;
 	background-color: white;
 	cursor: pointer;
+	margin-left: auto;	
 }
+
+#next {
+	font-size: 25px;
+	background-color: #FAFAF8;
+	border: none;
+	background-color: white;
+	cursor: pointer;
+	margin-right: auto;	
+}
+
 
 iframe {
 	width: 700px;
