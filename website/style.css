@@ -19,6 +19,15 @@ body {
 	grid-template-columns: 1fr 1fr;
 }
 
+@media (max-width: 1000px){
+	.grid {
+		display: grid;
+		grid-template-columns: 1fr;
+		row-gap: 0px;
+
+	}
+}
+
 .controls {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
@@ -68,8 +77,17 @@ p {
 .info {
 	margin-top: 8px;
 	width: 700px;
-	height: 750px;
+	min-height: 750px;
+	height: fit-content;
 	background-color: #FAFAF8;
+}
+
+@media (max-width: 1000px){
+	.info {
+		width: 692px;
+		margin-top: 0px;
+		margin-left: 8px;
+	}
 }
 
 .toggle-container {
