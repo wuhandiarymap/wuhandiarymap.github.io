@@ -5,8 +5,9 @@ import json
 from tqdm import tqdm
 
 class MapMaker():
-	def __init__(self):
+	def __init__(self, map_style):
 		super(MapMaker, self).__init__()
+		self.map_style = map_style
 		
 	def base_map(self, districts):
 		geojson = open("../data/wuhan.geojson", encoding="utf-8")
@@ -26,7 +27,7 @@ class MapMaker():
 			geojson=gdf.geometry,
 			locations=gdf.index,
 			center={"lat": 30.5928, "lon": 114.3052}, 
-			map_style="open-street-map", #"carto-positron-nolabels",
+			map_style= self.map_style,
 			color="highlight",
 			hover_name="name",
 			hover_data={"highlight": False},
@@ -56,7 +57,8 @@ class MapMaker():
 						opacity=1,
 						color="#fa3f32"
 					),
-					customdata=data
+					customdata=data,
+					below=""
 				)
 			)
 		else:
@@ -77,7 +79,8 @@ class MapMaker():
 						size=20,
 						color="black",
 					),
-					customdata=data
+					customdata=data,
+					below=""
 				)
 			)
 
@@ -92,16 +95,16 @@ class MapMaker():
 			),
 			showlegend=False,
 		)
-		self.fig.write_html(f"../website/maps/{fname}.html", config={"displayModeBar": False}, div_id=f"{fname}")
+		self.fig.write_html(f"../website/maps/{fname}_{self.map_style}.html", config={"displayModeBar": False}, div_id=f"{fname}")
 
 
-def process_data():
+def process_data(map_style):
 	with open("../data/locations_to_map.json", "r", encoding="utf-8") as file:
 		data = json.loads(file.read())
 
 	for k, v in tqdm(data.items()):
 	#for k, v in data.items():
-		mm = MapMaker()
+		mm = MapMaker(map_style)
 		locations = v["locations"]
 		districts = {}
 		
@@ -138,5 +141,6 @@ def process_data():
 
 
 if __name__ == "__main__":
-	process_data()
+	process_data("carto-positron-nolabels")
+	process_data("open-street-map")
 

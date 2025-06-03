@@ -16,7 +16,7 @@
 			<button id="next" onclick="next()">►</button>
 		</div>
 		<div class="grid">
-			<iframe src="maps/2020-01-26.html" id="map" scrolling="no"></iframe>
+			<iframe src="" id="map" scrolling="no"></iframe>
 			<div class="info">
 				<div class="center">
 					<img src="wuhanriji.png" width="100" height="100">
@@ -28,6 +28,17 @@
 					</p>
 					<p>
 						The locations were automatically identified using <a target="_blank" rel="noopener noreferrer" href="https://hanlp.hankcs.com/docs/index.html">HanLP</a>, and the coordinates were looked up manually. The maps were generated using <a target="_blank" rel="noopener noreferrer" href="https://plotly.com/">Plotly</a>. Some locations might not be on the map. For more information regarding the data, code, and how to contribute, see the <a target="_blank" rel="noopener noreferrer" href="https://github.com/wuhandiarymap/wuhandiarymap.github.io">GitHub repository</a>.
+					</p>
+					<p>
+						The base maps are provided by <a target="_blank" rel="noopener noreferrer" href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> and <a target="_blank" rel="noopener noreferrer" href="https://carto.com/platform.">CARTO</a>.
+					</p>
+
+					<p class="toggle-container">
+						Show detailed map 
+						<label class="toggle">
+							<input type="checkbox" id="checkbox" />
+							<span class="slider"></span>
+						</label>
 					</p>
 					
 					<h2 id="date"></h2>
