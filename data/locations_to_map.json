@@ -178,7 +178,7 @@
                 "area": true,
                 "lat": 23.1301964,
                 "lon": 113.2592945,
-                "description": "Province",
+                "description": "City",
                 "info_source": "https://www.gps-coordinates.net/"
             },
             "新加坡":
@@ -1482,7 +1482,7 @@
                 "area": true,
                 "lat": 23.1301964,
                 "lon": 113.2592945,
-                "description": "Province",
+                "description": "City",
                 "info_source": "https://www.gps-coordinates.net/"
             }
         }
@@ -8582,7 +8582,7 @@
                 "area": true,
                 "lat": 23.1301964,
                 "lon": 113.2592945,
-                "description": "Province",
+                "description": "City",
                 "info_source": "https://www.gps-coordinates.net/"
             },
             "广东":
