@@ -5,10 +5,10 @@
         "mentioned": 436,
         "wuhan": true,
         "area": true,
-        "lat": 30.5951051,
-        "lon": 114.2999353,
+        "lat": 30.576,
+        "lon": 114.291,
         "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5kc1eE-?m=&relation=3076268"
     },
     "湖北":
     {
@@ -16,10 +16,10 @@
         "mentioned": 102,
         "wuhan": false,
         "area": true,
-        "lat": 31.1530504,
-        "lon": 112.8806423,
+        "lat": 30.959,
+        "lon": 111.984,
         "description": "Province",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5PqIH?m=&relation=913106"
     },
     "中国":
     {
@@ -27,10 +27,10 @@
         "mentioned": 37,
         "wuhan": false,
         "area": true,
-        "lat": 35.0000663,
-        "lon": 104.999955,
+        "lat": 34.89,
+        "lon": 105.12,
         "description": "Country",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5Ynh?m=&relation=270056"
     },
     "中心医院":
     {
@@ -38,10 +38,10 @@
         "mentioned": 23,
         "wuhan": true,
         "area": false,
-        "lat": 30.582190447900153,
-        "lon": 114.29464851734622,
+        "lat": 30.583717,
+        "lon": 114.289583,
         "description": "Hospital",
-        "source": "https://maps.app.goo.gl/4ScCoTJoTHYfeU647"
+        "source": "https://osm.org/go/5kc1d6TVT?m=&way=767972194"
     },
     "汉口":
     {
@@ -60,10 +60,10 @@
         "mentioned": 15,
         "wuhan": true,
         "area": true,
-         "lat": 30.5951051,
-        "lon": 114.2999353,
+        "lat": 30.576,
+        "lon": 114.291,
         "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5kc1eE-?m=&relation=3076268"
     },
     "上海":
     {
@@ -71,10 +71,10 @@
         "mentioned": 12,
         "wuhan": false,
         "area": true,
-        "lat": 31.2312707,
-        "lon": 121.4700152,
+        "lat": 31.213,
+        "lon": 121.465,
         "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5ng8EA-?m=&relation=913067"
     },
     "文联":
     {
@@ -93,10 +93,10 @@
         "mentioned": 11,
         "wuhan": false,
         "area": true,
-        "lat": 1.2805897518007732,
-        "lon": 103.84979035161551,
+        "lat": 1.2887,
+        "lon": 103.8510,
         "description": "Country",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/4IPzk4U-?m=&relation=536780"
     },
     "汉":
     {
@@ -104,10 +104,10 @@
         "mentioned": 11,
         "wuhan": true,
         "area": true,
-        "lat": 30.5951051,
-        "lon": 114.272597,
+        "lat": 30.576,
+        "lon": 114.291,
         "description": "Wuhan, City",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5kc1eE-?m=&relation=3076268"
     },
     "武昌":
     {
@@ -115,10 +115,10 @@
         "mentioned": 10,
         "wuhan": true,
         "area": true,
-        "lat": 30.5566998,
-        "lon": 114.3109847,
+        "lat": 30.5540,
+        "lon": 114.3100,
         "description": "District",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5kc1kpF-?m=&relation=3076297"
     },
     "美国":
     {
@@ -126,10 +126,10 @@
         "mentioned": 10,
         "wuhan": false,
         "area": true,
-        "lat": 39.7837304,
-        "lon": -100.445882,
+        "lat": 39.64,
+        "lon": -100.55,
         "description": "Country",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/T8CU--?m=&relation=148838"
     },
     "黄冈":
     {
@@ -137,10 +137,10 @@
         "mentioned": 10,
         "wuhan": false,
         "area": true,
-        "lat": 30.4560187,
-        "lon": 114.8673226,
+        "lat": 30.449,
+        "lon": 114.865,
         "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5keY~I--?m=&relation=3144169"
     },
     "成都":
     {
@@ -148,10 +148,10 @@
         "mentioned": 9,
         "wuhan": false,
         "area": true,
-        "lat": 30.6598628,
-        "lon": 104.0633717,
+        "lat": 30.654,
+        "lon": 104.063,
         "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5M1BQF--?m=&relation=2110264"
     },
     "太阳":
     {
@@ -181,10 +181,10 @@
         "mentioned": 8,
         "wuhan": true,
         "area": false,
-        "lat": 30.541036563155025,
-        "lon": 114.36112182543168,
+        "lat": 30.53720,
+        "lon": 114.36124,
         "description": "University",
-        "source": "https://zh.wikipedia.org/wiki/%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6"
+        "source": "https://osm.org/go/5kc2XLIh--?m=&relation=10717504"
     },
     "作协":
     {
@@ -203,10 +203,10 @@
         "mentioned": 8,
         "wuhan": false,
         "area": true,
-        "lat": 40.190632,
-        "lon": 116.412144,
+        "lat": 39.899,
+        "lon": 116.389,
         "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/50jldF--?m=&relation=912940"
     },
     "华南":
     {
@@ -225,10 +225,10 @@
         "mentioned": 7,
         "wuhan": true,
         "area": true,
-        "lat": 30.558032913627756,
-        "lon": 114.39013716457524,
+        "lat": 30.55997,
+        "lon": 114.38488,
         "description": "Lake",
-        "source": "https://maps.app.goo.gl/vXX43MXH9FqS5n5i9"
+        "source": "https://osm.org/go/5kc3PkK?m="
     },
     "重庆":
     {
@@ -236,10 +236,10 @@
         "mentioned": 7,
         "wuhan": false,
         "area": true,
-        "lat": 30.05518,
-        "lon": 107.8748712,
+        "lat": 29.550,
+        "lon": 106.545,
         "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5M6gNE-?m=&relation=913069"
     },
     "海南":
     {
@@ -247,10 +247,10 @@
         "mentioned": 6,
         "wuhan": false,
         "area": true,
-        "lat": 19.2000001,
-        "lon": 109.5999999,
+        "lat": 19.17,
+        "lon": 109.58,
         "description": "Province",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/4ee4p--?m=&relation=2128285"
     },
     "贵州":
     {
@@ -258,10 +258,10 @@
         "mentioned": 6,
         "wuhan": false,
         "area": true,
-        "lat": 27,
-        "lon": 107,
+        "lat": 26.981,
+        "lon": 106.996,
         "description": "Province",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5LQTf?m=&relation=286937"
     },
     "省作协":
     {
@@ -280,10 +280,10 @@
         "mentioned": 5,
         "wuhan": false,
         "area": true,
-        "lat": 31.1530504,
-        "lon": 112.8806423,
+        "lat": 30.959,
+        "lon": 111.984,
         "description": "Province (Hubei)",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5PqIH?m=&relation=913106"
     },
     "国家卫健委":
     {
@@ -291,10 +291,10 @@
         "mentioned": 5,
         "wuhan": false,
         "area": false,
-        "lat": 39.93792770501244,
-        "lon":  116.35443070971462,
-        "description": "Department",
-        "source": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7%E5%A7%94%E5%91%98%E4%BC%9A"
+        "lat": 39.936987,
+        "lon":  116.348315,
+        "description": "National Health Commission",
+        "source": "https://osm.org/go/50ja8MNRn?m="
     },
     "湖北省":
     {
@@ -302,10 +302,10 @@
         "mentioned": 5,
         "wuhan": false,
         "area": true,
-        "lat": 31.1530504,
-        "lon": 112.8806423,
+        "lat": 30.959,
+        "lon": 111.984,
         "description": "Province (Hubei)",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5PqIH?m=&relation=913106"
     },
     "财新":
     {
@@ -335,10 +335,10 @@
         "mentioned": 5,
         "wuhan": true,
         "area": false,
-        "lat": 30.56563476936055,
-        "lon": 114.36488613390922,
+        "lat": 30.556367,
+        "lon": 114.347645,
         "description": "Hospital",
-        "source": "https://maps.app.goo.gl/weJejw57BotfppdQ7"
+        "source": "https://osm.org/go/5kc3ESeYI--?m="
     },
     "希文合唱团":
     {
@@ -357,10 +357,10 @@
         "mentioned": 4,
         "wuhan": true,
         "area": false,
-        "lat": 30.62489257593938,
-        "lon": 114.29973933033357,
+        "lat": 30.628459,
+        "lon": 114.295111,
         "description": "Hospital",
-        "source": "https://maps.app.goo.gl/xsJZq8vWxNwELWdN8"
+        "source": "https://osm.org/go/5kdgfbXNM--?m="
     },
     "广州":
     {
@@ -368,10 +368,10 @@
         "mentioned": 4,
         "wuhan": false,
         "area": true,
-        "lat": 23.1301964,
-        "lon": 113.2592945,
+        "lat": 23.125,
+        "lon": 113.253,
         "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5gDUh0--?m=&relation=3287346"
     },
     "百步亭":
     {
@@ -390,10 +390,10 @@
         "mentioned": 4,
         "wuhan": false,
         "area": true,
-        "lat": 36.5748441,
-        "lon": 139.2394179,
+        "lat": 36.46,
+        "lon": 139.17,
         "description": "Country",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/7Q37w-?m=&relation=382313"
     },
     "华科大":
     {
@@ -401,10 +401,10 @@
         "mentioned": 4,
         "wuhan": true,
         "area": false,
-        "lat": 30.513152163251238,
-        "lon": 114.4201790370768,
+        "lat": 30.509486,
+        "lon": 114.409347,
         "description": "University",
-        "source": "https://maps.app.goo.gl/6b1Px5nH8BF5Jx1g7"
+        "source": "https://osm.org/go/5kc2moZsB-?m="
     },
     "南京":
     {
@@ -412,10 +412,10 @@
         "mentioned": 4,
         "wuhan": false,
         "area": true,
-        "lat": 32.0438284,
-        "lon": 118.7788631,
+        "lat": 32.034,
+        "lon": 118.779,
         "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5nFqfw--?m=&relation=2131524"
     },
     "同济医院":
     {
@@ -423,10 +423,10 @@
         "mentioned": 4,
         "wuhan": true,
         "area": false,
-        "lat": 30.57875,
-        "lon": 114.261757,
+        "lat": 30.582191,
+        "lon": 114.254395,
         "description": "Hospital",
-        "source": "https://en.wikipedia.org/wiki/Wuhan_Tongji_Hospital"
+        "source": "https://osm.org/go/5kcf~mwQ1--?m=&way=690674920"
     },
     "长江日报":
     {
@@ -456,10 +456,10 @@
         "mentioned": 4,
         "wuhan": false,
         "area": true,
-        "lat": 36.398987,
-        "lon": 118.5055691,
+        "lat": 36.368,
+        "lon": 118.499,
         "description": "Province",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5yVlY?m=&relation=913006"
     },
     "深圳":
     {
@@ -467,10 +467,10 @@
         "mentioned": 4,
         "wuhan": false,
         "area": true,
-        "lat": 22.5445741,
-        "lon": 114.0545429,
+        "lat": 22.5405,
+        "lon": 114.0532,
         "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5gIC3O?m=&relation=3464353"
     },
     "中":
     {
@@ -478,10 +478,10 @@
         "mentioned": 4,
         "wuhan": false,
         "area": true,
-        "lat": 35.0000663,
-        "lon": 104.999955,
+        "lat": 34.89,
+        "lon": 105.12,
         "description": "Country",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5Ynh?m=&relation=270056"
     },
     "美":
     {
@@ -489,10 +489,10 @@
         "mentioned": 4,
         "wuhan": false,
         "area": true,
-        "lat": 39.7837304,
-        "lon": -100.445882,
+         "lat": 39.64,
+        "lon": -100.55,
         "description": "Country",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/T8CU--?m=&relation=148838"
     },
     "广西":
     {
@@ -500,10 +500,10 @@
         "mentioned": 4,
         "wuhan": false,
         "area": true,
-        "lat": 24,
-        "lon": 109,
+        "lat": 23.986,
+        "lon": 108.995,
         "description": "Province",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5KaBW?m=&relation=286342"
     },
     "华南海鲜市场":
     {
@@ -533,10 +533,10 @@
         "mentioned": 3,
         "wuhan": true,
         "area": true,
-        "lat": 30.551650815313838,
-        "lon": 114.41997684643528,
+        "lat": 30.599286,
+        "lon": 114.410318,
         "description": "Road",
-        "source": "https://maps.app.goo.gl/KLufJBqmjMY5utHF6"
+        "source": "https://osm.org/go/5kdimvFl--?m=&way=1011172241"
     },
     "中新社":
     {
@@ -555,10 +555,10 @@
         "mentioned": 3,
         "wuhan": false,
         "area": true,
-        "lat": 41.8026095,
-        "lon": 123.4279105,
+        "lat": 41.792,
+        "lon": 123.426,
         "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/52_0d1-?m=&relation=2769604"
     },
     "火神山医院":
     {
@@ -577,10 +577,10 @@
         "mentioned": 3,
         "wuhan": true,
         "area": true,
-        "lat": 30.5566655,
-        "lon": 114.2131725,
+        "lat": 30.5558,
+        "lon": 114.2125,
         "description": "District",
-        "source": null
+        "source": "https://osm.org/go/5kcfO6A-?m=&relation=3076295"
     },
     "武昌区":
     {
@@ -588,10 +588,10 @@
         "mentioned": 3,
         "wuhan": true,
         "area": true,
-        "lat": 30.5566998,
-        "lon": 114.3109847,
+        "lat": 30.5540,
+        "lon": 114.3100,
         "description": "District",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5kc1kpF-?m=&relation=3076297"
     },
     "瑞德西韦":
     {
@@ -621,10 +621,10 @@
         "mentioned": 3,
         "wuhan": false,
         "area": true,
-        "lat": 27.6662087,
-        "lon": 111.7487063,
+        "lat": 27.664,
+        "lon": 111.753,
         "description": "Province",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5L87w?m=&relation=913073"
     },
     "匹兹堡":
     {
@@ -632,21 +632,21 @@
         "mentioned": 3,
         "wuhan": false,
         "area": true,
-        "lat": 40.441180425901706,
-        "lon": -79.99705702202287,
+        "lat": 40.4409,
+        "lon": -79.9904,
         "description": "City",
-        "source": "https://maps.app.goo.gl/UrN2hdLhFVgjfJGL9"
+        "source": "https://osm.org/go/ZWtCuAt--?m=&relation=188553"
     },
     "京城":
     {
-        "valid": null,
-        "mentioned": 3,
-        "wuhan": null,
-        "area": null,
-        "lat": null,
-        "lon": null,
-        "description": null,
-        "source": null
+        "valid": true,
+        "mentioned": 8,
+        "wuhan": false,
+        "area": true,
+        "lat": 39.899,
+        "lon": 116.389,
+        "description": "City (Beijing)",
+        "source": "https://osm.org/go/50jldF--?m=&relation=912940"
     },
     "雷神医院":
     {
@@ -665,10 +665,10 @@
         "mentioned": 3,
         "wuhan": true,
         "area": true,
-        "lat": 30.664249778085843,
-        "lon": 114.39781869348967,
+        "lat": 30.67623,
+        "lon": 114.41085,
         "description": "Island",
-        "source": "https://maps.app.goo.gl/72mD6ZW1USbf229D9"
+        "source": "https://osm.org/go/5kdmivag-?m=&relation=14620339"
     },
     "纪委":
     {
@@ -698,10 +698,10 @@
         "mentioned": 3,
         "wuhan": true,
         "area": false,
-        "lat": 30.59166238492687,
-        "lon": 114.27999356290482,
-        "description": "Department",
-        "source": "https://wjw.wuhan.gov.cn/sy/"
+        "lat": 30.591531,
+        "lon": 114.274920,
+        "description": "Wuhan Municipal Health Commission",
+        "source": "https://osm.org/go/5kdgDgLmU--?m="
     },
     "宁波":
     {
@@ -709,10 +709,10 @@
         "mentioned": 3,
         "wuhan": false,
         "area": true,
-        "lat": 29.8622194,
-        "lon": 121.6203873,
+        "lat": 29.860,
+        "lon": 121.616,
         "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5mw~n8--?m=&relation=3478607"
     },
     "红卫兵":
     {
@@ -731,10 +731,10 @@
         "mentioned": 3,
         "wuhan": true,
         "area": false,
-        "lat": 30.59166238492687,
-        "lon": 114.27999356290482,
-        "description": "Department",
-        "source": "https://wjw.wuhan.gov.cn/sy/"
+        "lat": 30.591531,
+        "lon": 114.274920,
+        "description": "Wuhan Municipal Health Commission",
+        "source": "https://osm.org/go/5kdgDgLmU--?m="
     },
     "察网":
     {
@@ -753,10 +753,10 @@
         "mentioned": 3,
         "wuhan": false,
         "area": false,
-        "lat": 39.987025957622215,
-        "lon": 116.305867882867,
+        "lat": 39.99185,
+        "lon": 116.30393,
         "description": "University",
-        "source": "https://maps.app.goo.gl/19xRZsnduU6Hi3E47"
+        "source": "https://osm.org/go/50jeIGu0--?m=&way=1330709889"
     },
     "东亭路":
     {
@@ -764,10 +764,10 @@
         "mentioned": 2,
         "wuhan": true,
         "area": true,
-        "lat": 30.572240592486736,
-        "lon": 114.36473255635728,
+        "lat": 30.57305,
+        "lon": 114.35832,
         "description": "Road",
-        "source": "https://maps.app.goo.gl/apUzLy5JkBxXgiCr7"
+        "source": "https://osm.org/go/5kc3TTD0?m=&way=307415607"
     },
     "历史系":
     {
@@ -797,10 +797,10 @@
         "mentioned": 2,
         "wuhan": true,
         "area": false,
-        "lat": 30.538972833139773,
-        "lon": 114.36749832013055,
+        "lat": 30.541408,
+        "lon": 114.362338,
         "description": "University",
-        "source": "https://maps.app.goo.gl/xx9iL9nSAt5qpewr7"
+        "source": "https://osm.org/go/5kc2X1BrY--?m=&relation=10717504"
     },
     "火神山":
     {
@@ -819,10 +819,10 @@
         "mentioned": 2,
         "wuhan": true,
         "area": false,
-        "lat": 30.48060190548926,
-        "lon": 114.33667210471236,
+        "lat": 30.48389,
+        "lon": 114.32957,
         "description": "Department",
-        "source": null
+        "source": "https://osm.org/go/5kcx5lNA?m=, https://map.baidu.com/@12728804.46,3544418,19z" 
     },
     "华中科技大学":
     {
@@ -830,10 +830,10 @@
         "mentioned": 4,
         "wuhan": true,
         "area": false,
-        "lat": 30.513152163251238,
-        "lon": 114.4201790370768,
+        "lat": 30.509486,
+        "lon": 114.409347,
         "description": "University",
-        "source": "https://maps.app.goo.gl/6b1Px5nH8BF5Jx1g7"
+        "source": "https://osm.org/go/5kc2moZsB-?m="
     },
     "洪山区":
     {
@@ -841,10 +841,10 @@
         "mentioned": 2,
         "wuhan": true,
         "area": true,
-        "lat": 30.5028043,
-        "lon": 114.3378431,
+        "lat": 30.5008,
+        "lon": 114.3375,
         "description": "District",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5kc0qNV-?m=&relation=3080399"
     },
     "江夏":
     {
@@ -852,10 +852,10 @@
         "mentioned": 2,
         "wuhan": true,
         "area": true,
-        "lat": 30.3780494,
-        "lon": 114.3161693,
+        "lat": 30.3800,
+        "lon": 114.3141,
         "description": "District",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5kclmS?m=&relation=3080417"
     },
     "四川":
     {
@@ -863,10 +863,10 @@
         "mentioned": 2,
         "wuhan": false,
         "area": true,
-        "lat": 30.5000001,
-        "lon": 102.4999999,
+        "lat": 30.487,
+        "lon": 102.502,
         "description": "Province",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5MW5Z?m=&relation=913068"
     },
     "武昌城":
     {
@@ -885,10 +885,10 @@
         "mentioned": 2,
         "wuhan": true,
         "area": false,
-        "lat": 30.66707216743432,
-        "lon": 114.2868935060496,
+        "lat": 30.668928,
+        "lon": 114.279726,
         "description": "Hospital",
-        "source": "https://maps.app.goo.gl/7FsuY8hNN4LYAQtY8"
+        "source": "https://osm.org/go/5kdhXq_3M--?m=&way=765267933"
     },
     "江苏":
     {
@@ -896,10 +896,10 @@
         "mentioned": 2,
         "wuhan": false,
         "area": true,
-        "lat": 33.0000001,
-        "lon": 119.9999999,
+        "lat": 32.981,
+        "lon": 119.982,
         "description": "Province",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5nZ2S?m=&relation=913012"
     },
     "方舱医院":
     {
@@ -918,10 +918,10 @@
         "mentioned": 2,
         "wuhan": true,
         "area": true,
-        "lat": 30.58333,
-        "lon": 114.26667,
+        "lat": 30.6355,
+        "lon": 114.2777,
         "description": "District",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5kdhDok--?m=&relation=3077255"
     },
     "淘宝":
     {
@@ -951,10 +951,10 @@
         "mentioned": 2,
         "wuhan": false,
         "area": true,
-        "lat": 25,
-        "lon": 102,
+        "lat": 24.976,
+        "lon": 101.997,
         "description": "Province",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5IXAk?m=&relation=913094"
     },
     "长江文艺杂志":
     {
@@ -995,10 +995,10 @@
         "mentioned": 2,
         "wuhan": false,
         "area": false,
-        "lat": 39.9112,
-        "lon": 116.4089,
+        "lat": 39.911098,
+        "lon": 116.409642,
         "description": "Hospital",
-        "source": "https://en.wikipedia.org/wiki/Peking_Union_Medical_College_Hospital"
+        "source": "https://osm.org/go/50jwL47d1--?m=&relation=19126182"
     },
     "仟吉":
     {
@@ -1017,10 +1017,10 @@
         "mentioned": 2,
         "wuhan": true,
         "area": true,
-        "lat": 30.342563068156007,
-        "lon": 114.11301397866565,
+        "lat": 30.46865,
+        "lon": 114.22056,
         "description": "River",
-        "source": "https://maps.app.goo.gl/uM7TA3CPWdvYAN676"
+        "source": "https://osm.org/go/5kcbkxr?m=&relation=9392345"
     },
     "白沙洲":
     {
@@ -1028,10 +1028,10 @@
         "mentioned": 2,
         "wuhan": true,
         "area": true,
-        "lat": 30.49543740377028,
-        "lon": 114.25802437184323,
+        "lat": 30.48794,
+        "lon": 114.24511,
         "description": "Island",
-        "source": "https://maps.app.goo.gl/mKRCwc6zSb1CH8bu7"
+        "source": "https://osm.org/go/5kcb8psB?m=&way=822385898"
     },
     "澳门":
     {
@@ -1039,10 +1039,10 @@
         "mentioned": 2,
         "wuhan": false,
         "area": true,
-        "lat": 22.1757605,
-        "lon": 113.5514142,
-        "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "lat": 22.1887,
+        "lon": 113.5379,
+        "description": "SAR",
+        "source": "https://osm.org/go/41XK9O4--?m=&node=1939592594"
     },
     "八舍":
     {
@@ -1094,10 +1094,10 @@
         "mentioned": 3,
         "wuhan": true,
         "area": false,
-        "lat": 30.59166238492687,
-        "lon": 114.27999356290482,
-        "description": "Department",
-        "source": "https://wjw.wuhan.gov.cn/sy/"
+        "lat": 30.591531,
+        "lon": 114.274920,
+        "description": "Wuhan Municipal Health Commission",
+        "source": "https://osm.org/go/5kdgDgLmU--?m="
     },
     "卫健委":
     {
@@ -1105,10 +1105,10 @@
         "mentioned": 3,
         "wuhan": true,
         "area": false,
-        "lat": 30.59166238492687,
-        "lon": 114.27999356290482,
-        "description": "Department",
-        "source": "https://wjw.wuhan.gov.cn/sy/"
+        "lat": 30.591531,
+        "lon": 114.274920,
+        "description": "Wuhan Municipal Health Commission",
+        "source": "https://osm.org/go/5kdgDgLmU--?m="
     },
     "广东":
     {
@@ -1116,10 +1116,10 @@
         "mentioned": 2,
         "wuhan": false,
         "area": true,
-        "lat": 23.1357694,
-        "lon": 113.1982688,
+        "lat": 24.03,
+        "lon": 113.214,
         "description": "Province",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5gDUS?m=&relation=911844"
     },
     "武汉医院":
     {
@@ -1138,10 +1138,10 @@
         "mentioned": 2,
         "wuhan": true,
         "area": false,
-        "lat": 30.58162848268251,
-        "lon": 114.29471879302898,
+        "lat": 30.583722,
+        "lon": 114.289618,
         "description": "Hospital",
-        "source": "https://maps.app.goo.gl/wY3MY7WAMRC9oXhx8"
+        "source": "https://osm.org/go/5kc1d6WJN?m=&way=767972194, https://maps.app.goo.gl/wY3MY7WAMRC9oXhx8"
     },
     "武汉中心医院":
     {
@@ -1149,10 +1149,10 @@
         "mentioned": 2,
         "wuhan": true,
         "area": false,
-        "lat": 30.581243715397367,
-        "lon": 114.29481932474701,
+        "lat": 30.583094,
+        "lon": 114.289720,
         "description": "Hospital",
-        "source": "https://maps.app.goo.gl/67RYkJyvb7P5VrLJ8"
+        "source": "https://osm.org/go/5kc1dvW_V?m=&way=767972194, https://maps.app.goo.gl/67RYkJyvb7P5VrLJ8"
     },
     "泌外科":
     {
@@ -1189,14 +1189,14 @@
     },
     "黄埔":
     {
-        "valid": true,
+        "valid": false,
         "mentioned": 2,
-        "wuhan": false,
-        "area": true,
-        "lat": 23.1277,
-        "lon": 113.2512,
-        "description": "District (Guangzhou)",
-        "source": "https://en.wikipedia.org/wiki/Huangpu,_Guangzhou"
+        "wuhan": null,
+        "area": null,
+        "lat": null,
+        "lon": null,
+        "description": null, 
+        "source": null 
     },
     "武汉大学":
     {
@@ -1204,10 +1204,10 @@
         "mentioned": 8,
         "wuhan": true,
         "area": false,
-        "lat": 30.541036563155025,
-        "lon": 114.36112182543168,
+        "lat": 30.53720,
+        "lon": 114.36124,
         "description": "University",
-        "source": "https://zh.wikipedia.org/wiki/%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6"
+        "source": "https://osm.org/go/5kc2XLIh--?m=&relation=10717504"
     },
     "老通城":
     {
@@ -1215,10 +1215,10 @@
         "mentioned": 2,
         "wuhan": true,
         "area": false,
-        "lat": 30.58705687477141,
-        "lon": 114.29421426776209,
+        "lat": 30.589335,
+        "lon": 114.288931,
         "description": "Store",
-        "source": "https://maps.app.goo.gl/ua6pfpehDV3FWQdC6"
+        "source": "https://osm.org/go/5kdgI43YZ?m="
     },
     "通城":
     {
@@ -1237,10 +1237,10 @@
         "mentioned": 2,
         "wuhan": true,
         "area": false,
-        "lat": 30.579244287057854,
-        "lon": 114.33146742888839,
+        "lat": 30.57946,
+        "lon": 114.32742,
         "description": "University",
-        "source": "https://maps.app.goo.gl/cburKrcZRF5WduyaA"
+        "source": "https://osm.org/go/5kc18cyw?m=&way=368386322"
     },
     "粤":
     {
@@ -1248,10 +1248,10 @@
         "mentioned": 2,
         "wuhan": false,
         "area": true,
-        "lat": 23.1357694,
-        "lon": 113.1982688,
-        "description": "Province",
-        "source": "https://www.gps-coordinates.net/"
+        "lat": 30.591531,
+        "lon": 113.214,
+        "description": "Province (Guangdong)",
+        "source": "https://osm.org/go/5gDUS?m=&relation=911844"
     },
     "影子梦之队":
     {
@@ -1325,10 +1325,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": true,
-        "lat": 34.0000001,
-        "lon": 113.9999999,
+        "lat": 33.989,
+        "lon": 113.994,
         "description": "Province",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5wITF?m=&relation=407492"
     },
     "庐山":
     {
@@ -1380,10 +1380,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": false,
-        "lat": 28.179986512571578,
-        "lon": 112.94380541730413,
+        "lat": 30.57946,
+        "lon": 114.32742,
         "description": "University",
-        "source": "https://maps.app.goo.gl/rciyEq36VqoqiUzb7"
+        "source": "https://osm.org/go/5kc18cyw?m=&way=368386322"
     },
     "中国新闻社":
     {
@@ -1446,10 +1446,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": false,
-        "lat": 39.99987242391538,
-        "lon": 116.3265183448781,
+        "lat": 40.00260,
+        "lon": 116.32088,
         "description": "University",
-        "source": "https://maps.app.goo.gl/4aWf5Qw2XHfXu8nT7"
+        "source": "https://osm.org/go/50jeOsII--?m=&relation=7469216"
     },
     "零下":
     {
@@ -1545,10 +1545,10 @@
         "mentioned": 5,
         "wuhan": true,
         "area": false,
-        "lat": 30.56563476936055,
-        "lon": 114.36488613390922,
+        "lat": 30.556381,
+        "lon": 114.347640,
         "description": "Hospital",
-        "source": "https://maps.app.goo.gl/weJejw57BotfppdQ7"
+        "source": "https://osm.org/go/5kc3ESfZI--?m=&relation=19188131"
     },
     "同济":
     {
@@ -1556,10 +1556,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": false,
-        "lat": 31.28334937977118,
-        "lon": 121.5008285745729,
-        "description": "University",
-        "source": "https://maps.app.goo.gl/orAwU1BVVaQwzo24A"
+        "lat": 30.582191,
+        "lon": 114.254395,
+        "description": "Hospital",
+        "source": "https://osm.org/go/5kcf~mwQ1--?m=&way=690674920"
     },
     "四号":
     {
@@ -1578,10 +1578,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": true,
-        "lat": 30.926188799700963,
-        "lon": 113.91620301561632,
+        "lat": 30.919,
+        "lon": 113.953,
         "description": "City",
-        "source": "https://maps.app.goo.gl/DnPRvzY7gzmFk4Rt7"
+        "source": "https://osm.org/go/5kdVwY--?m=&relation=3216406"
     },
     "洪山体育馆":
     {
@@ -1589,10 +1589,10 @@
         "mentioned": 1,
         "wuhan": true,
         "area": false,
-        "lat": 30.54530389852658,
-        "lon": 114.33410674440032,
+        "lat": 30.548472,
+        "lon": 114.328803,
         "description": "Stadium",
-        "source": "https://maps.app.goo.gl/UYzr3JQjmev5SKeM8"
+        "source": "https://osm.org/go/5kc1pLnlf?m="
     },
     "艳阳天":
     {
@@ -1600,10 +1600,10 @@
         "mentioned": 1,
         "wuhan": true,
         "area": false,
-        "lat": 30.602071264980786,
-        "lon": 114.30417672577818,
-        "description": "Restaurant",
-        "source": "https://maps.app.goo.gl/PuGhQpaXTD12LtYr8"
+        "lat": 30.542694,
+        "lon": 114.294307,
+        "description": "Restaurant (there are also other location, but this one is most likely the correct one)",
+        "source": "https://osm.org/go/5kc1KJght?m=, https://map.baidu.com/@12724627.46,3552005.27,19z"
     },
     "华":
     {
@@ -1622,10 +1622,10 @@
         "mentioned": 1,
         "wuhan": true,
         "area": false,
-        "lat": 30.58119938495733,
-        "lon": 114.29572667722326,
+        "lat": 30.583717,
+        "lon": 114.289583,
         "description": "Hospital",
-        "source": "https://maps.app.goo.gl/W1KMhgLVLLG6jnU1A"
+        "source": "https://osm.org/go/5kc1d6TVT?m=&way=767972194"
     },
     "火":
     {
@@ -1677,10 +1677,10 @@
         "mentioned": 1,
         "wuhan": true,
         "area": true,
-        "lat": 30.6041382,
-        "lon": 114.2653871,
+        "lat": 30.60394,
+        "lon": 114.26519,
         "description": "District",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5kdgFmL?m=&relation=3077256"
     },
     "江夏区":
     {
@@ -1688,10 +1688,10 @@
         "mentioned": 1,
         "wuhan": true,
         "area": true,
-        "lat": 30.3780494,
-        "lon": 114.3161693,
+        "lat": 30.3800,
+        "lon": 114.3141,
         "description": "District",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5kclmS?m=&relation=3080417"
     },
     "央视纪录片部":
     {
@@ -1721,10 +1721,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": true,
-        "lat": 24.8677811,
-        "lon": 97.945787,
+        "lat": 24.8665,
+        "lon": 97.9459,
         "description": "County (Yunnan)",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5CeZec?m=&relation=2717276"
     },
     "盈江":
     {
@@ -1765,10 +1765,10 @@
         "mentioned": 3,
         "wuhan": false,
         "area": true,
-        "lat": 40.441180425901706,
-        "lon": -79.99705702202287,
+        "lat": 40.4409,
+        "lon": -79.9904,
         "description": "City",
-        "source": "https://maps.app.goo.gl/UrN2hdLhFVgjfJGL9"
+        "source": "https://osm.org/go/ZWtCuAt--?m=&relation=188553"
     },
     "国航":
     {
@@ -1787,10 +1787,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": true,
-        "lat": 32.3968554,
-        "lon": 119.4077658,
+        "lat": 32.396,
+        "lon": 119.405,
         "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5nSphw--?m=&relation=4430826"
     },
     "丰巢":
     {
@@ -1930,10 +1930,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": true,
-        "lat": 40.7127281,
-        "lon": -74.0060152,
+        "lat": 40.7134,
+        "lon": -74.0073,
         "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/Zct2vzh-?m=&relation=175905"
     },
     "德国":
     {
@@ -1941,10 +1941,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": true,
-        "lat": 51.1638175,
-        "lon": 10.4478313,
+        "lat": 51.19,
+        "lon": 10.44,
         "description": "Country",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/0Gp49--?m=&relation=51477"
     },
     "苏":
     {
@@ -1963,10 +1963,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": true,
-        "lat": 46.603354,
-        "lon": 1.8883335,
+        "lat": 46.56,
+        "lon": 1.87,
         "description": "Country",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/0AYnN--?m=&relation=2202162"
     },
     "联合国":
     {
@@ -1985,10 +1985,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": true,
-        "lat": 36.8762356,
-        "lon": 118.7322549,
+        "lat": 36.877,
+        "lon": 118.729,
         "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5zA9rE--?m=&relation=3468767"
     },
     "武昌医院":
     {
@@ -1996,10 +1996,10 @@
         "mentioned": 1,
         "wuhan": true,
         "area": false,
-        "lat": 30.606285814223543,
-        "lon": 114.34105389065867,
+        "lat": 30.604817,
+        "lon": 114.336031,
         "description": "Hospital",
-        "source": "https://maps.app.goo.gl/2kcFFr37K7oQBjwp7"
+        "source": "https://osm.org/go/5kdgvFv3Z--?m=&way=1224667858"
     },
     "火神":
     {
@@ -2051,10 +2051,10 @@
         "mentioned": 1,
         "wuhan": true,
         "area": true,
-        "lat": 30.589002516198484,
-        "lon": 114.27098456396062,
+        "lat": 30.588457,
+        "lon": 114.265763,
         "description": "Park",
-        "source": "https://maps.app.goo.gl/Updy6yjUf8YmmGv57"
+        "source": "https://osm.org/go/5kdgAn5M0-?m=&way=488164612"
     },
     "解放公园":
     {
@@ -2062,10 +2062,10 @@
         "mentioned": 1,
         "wuhan": true,
         "area": true,
-        "lat": 30.607632010623977,
-        "lon": 114.29951123595647,
+        "lat": 30.610704,
+        "lon": 114.293797,
         "description": "Park",
-        "source": "https://maps.app.goo.gl/WJobKZHPP3C1FNLu6"
+        "source": "https://osm.org/go/5kdgaYCyF-?m=&way=494588326"
     },
     "落雁岛":
     {
@@ -2095,10 +2095,10 @@
         "mentioned": 1,
         "wuhan": true,
         "area": false,
-        "lat": 30.540452868809187,
-        "lon": 114.33324232300816,
+        "lat": 30.543191,
+        "lon": 114.328521,
         "description": "Company",
-        "source": "https://maps.app.goo.gl/tW76yizJdAgexggd7"
+        "source": "https://osm.org/go/5kc1oLb~Z--?m=, https://map.baidu.com/@12728505.77,3552074.25,19z"
     },
     "三镇":
     {
@@ -2150,10 +2150,10 @@
         "mentioned": 1,
         "wuhan": true,
         "area": true,
-        "lat": 30.54290152793501,
-        "lon": 114.4199247397807,
+        "lat": 30.546961,
+        "lon": 114.417168,
         "description": "Park",
-        "source": "https://maps.app.goo.gl/VSYcrLtcLguUmHZH9"
+        "source": "https://osm.org/go/5kc3o1Bdh-?m=&way=122895992"
     },
     "江中":
     {
@@ -2216,10 +2216,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": true,
-        "lat": 31.2017094,
-        "lon": 103.3354765,
+        "lat": 31.2034,
+        "lon": 103.3360,
         "description": "County",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5NI_iv?m=&relation=2110260"
     },
     "太阳能":
     {
@@ -2293,10 +2293,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": true,
-        "lat": 30.2489634,
-        "lon": 120.2052342,
+        "lat": 30.250,
+        "lon": 20.199,
         "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5mcqk8--?m=&relation=3221112"
     },
     "大疆":
     {
@@ -2436,10 +2436,10 @@
         "mentioned": 4,
         "wuhan": true,
         "area": false,
-        "lat": 30.513152163251238,
-        "lon": 114.4201790370768,
-        "description": "University",
-        "source": "https://maps.app.goo.gl/6b1Px5nH8BF5Jx1g7"
+        "lat": 30.511328,
+        "lon": 114.400262,
+        "description": "University department",
+        "source": "https://osm.org/go/5kc2moZsB-?m=, https://map.baidu.com/@12736502.75259855,3547938.14175985,19z"
     },
     "财经":
     {
@@ -2458,10 +2458,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": false,
-        "lat": 30.308928534565403,
-        "lon": 120.08650975980831,
+        "lat": 30.30680,
+        "lon": 120.07576,
         "description": "University",
-        "source": "https://maps.app.goo.gl/sh3Dmx91nDUrshVq5"
+        "source": "https://osm.org/go/5mcpThlU-?m="
     },
     "苏利文":
     {
@@ -2502,10 +2502,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": true,
-        "lat": 36.8129564,
-        "lon": 118.0488401,
+        "lat": 36.816,
+        "lon": 118.048,
         "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5xq7WB--?m=&relation=3468503"
     },
     "蓝天救援队":
     {
@@ -2524,10 +2524,10 @@
         "mentioned": 5,
         "wuhan": true,
         "area": false,
-        "lat": 30.56563476936055,
-        "lon": 114.36488613390922,
+        "lat": 30.556367,
+        "lon": 114.347645,
         "description": "Hospital",
-        "source": "https://maps.app.goo.gl/weJejw57BotfppdQ7"
+        "source": "https://osm.org/go/5kc3ESeYI--?m="
     },
     "市中心医院":
     {
@@ -2535,10 +2535,10 @@
         "mentioned": 1,
         "wuhan": true,
         "area": false,
-        "lat": 30.581700879115047,
-        "lon": 114.2957770730126,
+       "lat": 30.583717,
+        "lon": 114.289583,
         "description": "Hospital",
-        "source": "https://maps.app.goo.gl/2M9cjA8z2K3ZByTLA"
+        "source": "https://osm.org/go/5kc1d6TVT?m=&way=767972194"
     },
     "汉口医院":
     {
@@ -2546,10 +2546,10 @@
         "mentioned": 4,
         "wuhan": true,
         "area": false,
-        "lat": 30.62489257593938,
-        "lon": 114.29973933033357,
-        "description": null,
-        "source": "https://maps.app.goo.gl/xsJZq8vWxNwELWdN8"
+        "lat": 30.628459,
+        "lon": 114.295111,
+        "description": "Hospital",
+        "source": "https://osm.org/go/5kdgfbXNM--?m="
     },
     "中国新闻周刊":
     {
@@ -2568,10 +2568,10 @@
         "mentioned": 1,
         "wuhan": true,
         "area": false,
-        "lat": 30.66707317038023,
-        "lon": 114.2868979407768,
-        "description": "Hospital",
-        "source": "https://maps.app.goo.gl/8qHSLG5QSg3BgrGN6"
+        "lat": 30.660498,
+        "lon": 114.261986,
+        "description": "Lake (there is a hospital with the same name east of the lake)",
+        "source": "https://osm.org/go/5kdhRaQZw-?m=&way=775576916"
     },
     "李文亮科室":
     {
@@ -2590,10 +2590,10 @@
         "mentioned": 1,
         "wuhan": true,
         "area": false,
-        "lat": 30.581775887352414,
-        "lon": 114.29469353892648,
+         "lat": 30.583722,
+        "lon": 114.289618,
         "description": "Hospital",
-        "source": "https://maps.app.goo.gl/4uhX1v7gEDSXid188"
+        "source": "https://osm.org/go/5kc1d6WJN?m=&way=767972194, https://maps.app.goo.gl/wY3MY7WAMRC9oXhx8"
     },
     "南京路":
     {
@@ -2623,10 +2623,10 @@
         "mentioned": 1,
         "wuhan": true,
         "area": false,
-        "lat": 30.5835,
-        "lon": 114.2897,
+        "lat": 30.583094,
+        "lon": 114.289720,
         "description": "Hospital (old name for 武汉市中心医院)",
-        "source": "https://en.wikipedia.org/wiki/Central_Hospital_of_Wuhan"
+        "source": "https://osm.org/go/5kc1dvW_V?m=&way=767972194, https://maps.app.goo.gl/67RYkJyvb7P5VrLJ8"
     },
     "日军":
     {
@@ -2667,10 +2667,10 @@
         "mentioned": 1,
         "wuhan": true,
         "area": false,
-        "lat": 30.581700879115047,
-        "lon": 114.2957770730126,
+        "lat": 30.583094,
+        "lon": 114.289720,
         "description": "Hospital",
-        "source": "https://maps.app.goo.gl/2M9cjA8z2K3ZByTLA"
+        "source": "https://osm.org/go/5kc1dvW_V?m=&way=767972194, https://maps.app.goo.gl/67RYkJyvb7P5VrLJ8"
     },
     "护理部":
     {
@@ -2755,10 +2755,10 @@
         "mentioned": 1,
         "wuhan": true,
         "area": false,
-        "lat": 30.576107767362917,
-        "lon": 114.29747582728038,
+        "lat": 30.625948,
+        "lon": 114.303195,
         "description": "Department",
-        "source": "https://maps.app.goo.gl/EA39LZ7biMCZocMA9"
+        "source": "https://osm.org/go/5kdg1GELB--?m=, https://wlj.wuhan.gov.cn/"
     },
     "呼吸科":
     {
@@ -2777,10 +2777,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": true,
-        "lat": 40.17663,
-        "lon": 116.38456,
+        "lat": 40.17468,
+        "lon": 116.39380,
         "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/50mkJw?m=&node=4442273872"
     },
     "武汉宁波商会":
     {
@@ -2799,10 +2799,10 @@
         "mentioned": 1,
         "wuhan": true,
         "area": false,
-        "lat": 30.521335431678235,
-        "lon": 114.35698082738293,
-        "description": "Hospital",
-        "source": "https://maps.app.goo.gl/hEZWkap5t9taMaWU7"
+        "lat": 30.52073,
+        "lon": 114.35630,
+        "description": "University",
+        "source": "https://osm.org/go/5kc2Qris?m=&way=779843664"
     },
     "泉州欣佳酒店":
     {
@@ -2821,10 +2821,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": true,
-        "lat": 22.350627,
-        "lon": 114.1849161,
-        "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "lat": 22.3526,
+        "lon": 114.1843,
+        "description": "SAR",
+        "source": "https://osm.org/go/41daTJk-?m=&relation=913110"
     },
     "世卫组织新冠肺炎联合考察组":
     {
@@ -2854,10 +2854,10 @@
         "mentioned": 1,
         "wuhan": true,
         "area": false,
-        "lat": 30.524017375145753,
-        "lon": 114.37258219107554,
+        "lat": 30.526188,
+        "lon": 114.367217,
         "description": "Department",
-        "source": "https://maps.app.goo.gl/acSXoGo7LQLDkHr68"
+        "source": "https://osm.org/go/5kc2Tq3c3?m=&way=127185904, https://www.hbcdc.cn/"
     },
     "武汉疾控中心":
     {
@@ -2865,21 +2865,21 @@
         "mentioned": 1,
         "wuhan": true,
         "area": false,
-        "lat": 30.590295686725984,
-        "lon": 114.28016198178223,
+        "lat": 30.616577,
+        "lon": 114.256203,
         "description": "Department",
-        "source": "https://maps.app.goo.gl/7iGjNuX6CvanREV99"
+        "source": "https://osm.org/go/5kdK7443U-?m="
     },
     "湖北卫健委":
     {
-        "valid": false,
+        "valid": true,
         "mentioned": 1,
-        "wuhan": null,
-        "area": null,
-        "lat": null,
-        "lon": null,
-        "description": null,
-        "source": null
+        "wuhan": true,
+        "area": true,
+        "lat": 30.527477,
+        "lon": 114.368261,
+        "description": "Department",
+        "source": "https://osm.org/go/5kc2ZEefI--?m=&way=127185904, https://wjw.hubei.gov.cn/" 
     },
     "田汉":
     {
@@ -2887,10 +2887,10 @@
         "mentioned": 1,
         "wuhan": true,
         "area": false,
-        "lat": 30.561277189967655,
-        "lon": 114.34917939659677,
+        "lat": 30.563490,
+        "lon": 114.343568,
         "description": "Theater",
-        "source": "https://maps.app.goo.gl/4WPp2YC7JE1xE63SA"
+        "source": "https://osm.org/go/5kc1v9Olx--?m=&way=1327888024"
     },
     "国家卫生健康委":
     {
@@ -2898,10 +2898,10 @@
         "mentioned": 5,
         "wuhan": false,
         "area": false,
-        "lat": 39.93792770501244,
-        "lon":  116.35443070971462,
+        "lat": 39.934289,
+        "lon":  116.335462,
         "description": "Department",
-        "source": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7%E5%A7%94%E5%91%98%E4%BC%9A"
+        "source": "https://osm.org/go/50jazU6Dw--?m=, https://www.nhc.gov.cn/"
     },
     "泰国卫生部":
     {
@@ -2931,10 +2931,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": true,
-        "lat": 7.1881,
-        "lon": 21.09375,
+        "lat": 11.01,
+        "lon": 17.58,
         "description": "Continent",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/wPXE--?m=&node=36966057"
     },
     "作协党组":
     {
@@ -2964,10 +2964,10 @@
         "mentioned": 2,
         "wuhan": true,
         "area": false,
-        "lat": 30.581243715397367,
-        "lon": 114.29481932474701,
+        "lat": 30.583094,
+        "lon": 114.289720,
         "description": "Hospital",
-        "source": "https://maps.app.goo.gl/67RYkJyvb7P5VrLJ8"
+        "source": "https://osm.org/go/5kc1dvW_V?m=&way=767972194, https://maps.app.goo.gl/67RYkJyvb7P5VrLJ8"
     },
     "《人物》杂志":
     {
@@ -3041,10 +3041,10 @@
         "mentioned": 1,
         "wuhan": true,
         "area": false,
-        "lat": 30.61432392452989,
-        "lon": 114.25842516249078,
+        "lat": 30.616530,
+        "lon": 114.253113,
         "description": "Department",
-        "source": "https://maps.app.goo.gl/ML5HV6Nefb3ZsMwP6"
+        "source": "https://osm.org/go/5kdK7wwnF-?m="
     },
     "市公安局":
     {
@@ -3140,10 +3140,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": false,
-        "lat": 39.97401241239311,
-        "lon": 116.4269900987565,
+        "lat": 39.97298,
+        "lon": 116.42068,
         "description": "Hospital",
-        "source": "https://maps.app.goo.gl/c1deA7SZnzUvLRJx5"
+        "source": "https://osm.org/go/50jxw8_3?m=&way=842327819"
     },
     "中心医院胸外科":
     {
@@ -3151,10 +3151,10 @@
         "mentioned": 23,
         "wuhan": true,
         "area": false,
-        "lat": 30.582190447900153,
-        "lon": 114.29464851734622,
+        "lat": 30.583094,
+        "lon": 114.289720,
         "description": "Hospital",
-        "source": "https://maps.app.goo.gl/4ScCoTJoTHYfeU647"
+        "source": "https://osm.org/go/5kc1dvW_V?m=&way=767972194, https://maps.app.goo.gl/67RYkJyvb7P5VrLJ8"
     },
     "青山区":
     {
@@ -3162,10 +3162,10 @@
         "mentioned": 1,
         "wuhan": true,
         "area": true,
-        "lat": 30.6421206,
-        "lon": 114.3797804,
+        "lat": 30.6409,
+        "lon": 114.3793,
         "description": "District",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5kdjLV1--?m=&relation=3079613"
     },
     "长江日报报业集团":
     {
@@ -3261,10 +3261,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": true,
-        "lat": 52.510885,
-        "lon": 13.3989367,
+        "lat": 52.5179,
+        "lon": 13.3971,
         "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/0MbFKax-?m=&relation=62422"
     },
     "居委会":
     {
@@ -3283,10 +3283,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": true,
-        "lat": 30.220155569393743,
-        "lon": 115.43198739782619,
+        "lat": 30.2235,
+        "lon": 115.4292,
         "description": "County",
-        "source": "https://maps.app.goo.gl/nwxZQa6FMrKUNu978"
+        "source": "https://osm.org/go/5kxXci?m=&relation=3011687"
     },
     "蕲春":
     {
@@ -3305,10 +3305,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": true,
-        "lat": 32.010998,
-        "lon": 112.1163785,
+        "lat": 32.013,
+        "lon": 112.115,
         "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5PvKnR--?m=&relation=3216590"
     },
     "襄阳":
     {
@@ -3382,10 +3382,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": true,
-        "lat": 30.3375612,
-        "lon": 112.2337264,
+        "lat": 30.340,
+        "lon": 112.234,
         "description": "City",
-        "source": "https://www.gps-coordinates.net/"
+        "source": "https://osm.org/go/5O_kvp--?m=&relation=2709754"
     },
     "新华社":
     {
@@ -3437,10 +3437,10 @@
         "mentioned": 3,
         "wuhan": false,
         "area": false,
-        "lat": 39.987025957622215,
-        "lon": 116.305867882867,
+        "lat": 39.99185,
+        "lon": 116.30393,
         "description": "University",
-        "source": "https://maps.app.goo.gl/19xRZsnduU6Hi3E47"
+        "source": "https://osm.org/go/50jeIGu0--?m=&way=1330709889"
     },
     "扶贫办":
     {
@@ -3481,10 +3481,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": true,
-        "lat": 61.0666922,
-        "lon": -107.991707,
+        "lat": 60.93,
+        "lon": -108.11,
         "description": "Country",
-        "source": "https://www.gps-coordinates.net"
+        "source": "https://osm.org/go/Wx5M--?m=&relation=1428125"
     },
     "哈佛":
     {
@@ -3492,10 +3492,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": false,
-        "lat": 42.3657432,
-        "lon": -71.1222139,
+        "lat": 42.36641,
+        "lon": -71.12214,
         "description": "University",
-        "source": "https://www.gps-coordinates.net"
+        "source": "https://osm.org/go/ZfI4oYal-?m=&relation=2415825"
     },
     "麻省总医院":
     {
@@ -3503,10 +3503,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": false,
-        "lat": 42.36270333058002,
-        "lon": -71.06836495484711,
+        "lat": 42.362892,
+        "lon": -71.068749,
         "description": "Hospital",
-        "source": "https://maps.app.goo.gl/MkBaWXfqv6ywcE4h6"
+        "source": "https://osm.org/go/ZfIvfXNlZ--?m=&way=117853077"
     },
     "西门口":
     {
@@ -3536,10 +3536,10 @@
         "mentioned": 1,
         "wuhan": true,
         "area": false,
-        "lat": 30.618880037797002,
-        "lon": 114.25504291534162,
+        "lat": 30.620380,
+        "lon": 114.249895,
         "description": "Train station",
-        "source": "https://maps.app.goo.gl/Jxyi14zQPbFdxgpo9"
+        "source": "https://osm.org/go/5kdK_MDuE-?m=&way=188708127"
     },
     "南宁":
     {
@@ -3547,10 +3547,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": true,
-        "lat": 22.8157737,
-        "lon": 108.318024,
+        "lat": 22.809,
+        "lon": 108.311,
         "description": "City",
-        "source": "https://www.gps-coordinates.net"
+        "source": "https://osm.org/go/5KIVIs--?m=&relation=2775778"
     },
     "广东人":
     {
@@ -3580,10 +3580,10 @@
         "mentioned": 1,
         "wuhan": true,
         "area": false,
-        "lat": 30.5859,
-        "lon": 114.2715,
+        "lat": 30.586721,
+        "lon": 114.269271,
         "description": "Hospital",
-        "source": "https://zh.wikipedia.org/zh-hans/%E5%8D%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%90%8C%E6%B5%8E%E5%8C%BB%E5%AD%A6%E9%99%A2%E9%99%84%E5%B1%9E%E5%8D%8F%E5%92%8C%E5%8C%BB%E9%99%A2"
+        "source": "https://osm.org/go/5kdgCBI9k-?m="
     },
     "南京大学":
     {
@@ -3591,10 +3591,10 @@
         "mentioned": 1,
         "wuhan": false,
         "area": false,
-        "lat": 32.05700274646857,
-        "lon": 118.7790245696531,
+        "lat": 32.056891,
+        "lon": 118.774105,
         "description": "University",
-        "source": "https://maps.app.goo.gl/auaCiF8ixgtWfdG68"
+        "source": "https://osm.org/go/5nFrPUjc0-?m=&way=88779953"
     },
     "联署":
     {
