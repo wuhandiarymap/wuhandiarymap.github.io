@@ -294,7 +294,7 @@
         "lat": 39.936987,
         "lon":  116.348315,
         "description": "National Health Commission",
-        "source": "https://osm.org/go/50ja8MNRn?m="
+        "source": "https://osm.org/go/50ja8MNRn?m=, https://www.nhc.gov.cn/"
     },
     "湖北省":
     {
@@ -566,8 +566,8 @@
         "mentioned": 3,
         "wuhan": true,
         "area": false,
-        "lat": 30.5297,
-        "lon": 114.0922,
+        "lat": 30.5302,
+        "lon": 114.0825,
         "description": "Temporary hospital",
         "source": "https://en.wikipedia.org/wiki/Huoshenshan_Hospital"
     },
@@ -1248,8 +1248,8 @@
         "mentioned": 2,
         "wuhan": false,
         "area": true,
-        "lat": 30.591531,
-        "lon": 113.214,
+        "lat": 23.12,
+        "lon": 114.17,
         "description": "Province (Guangdong)",
         "source": "https://osm.org/go/5gDUS?m=&relation=911844"
     },
@@ -1378,7 +1378,7 @@
     {
         "valid": true,
         "mentioned": 1,
-        "wuhan": false,
+        "wuhan": true,
         "area": false,
         "lat": 30.57946,
         "lon": 114.32742,
@@ -1554,7 +1554,7 @@
     {
         "valid": true,
         "mentioned": 1,
-        "wuhan": false,
+        "wuhan": true,
         "area": false,
         "lat": 30.582191,
         "lon": 114.254395,
@@ -2007,8 +2007,8 @@
         "mentioned": 3,
         "wuhan": true,
         "area": false,
-        "lat": 30.5297,
-        "lon": 114.0922,
+        "lat": 30.5302,
+        "lon": 114.0825,
         "description": "Temporary hospital",
         "source": "https://en.wikipedia.org/wiki/Huoshenshan_Hospital"
     },
@@ -2293,8 +2293,8 @@
         "mentioned": 1,
         "wuhan": false,
         "area": true,
-        "lat": 30.250,
-        "lon": 20.199,
+        "lat": 30.249,
+        "lon": 120.199,
         "description": "City",
         "source": "https://osm.org/go/5mcqk8--?m=&relation=3221112"
     },
@@ -2898,10 +2898,10 @@
         "mentioned": 5,
         "wuhan": false,
         "area": false,
-        "lat": 39.934289,
-        "lon":  116.335462,
-        "description": "Department",
-        "source": "https://osm.org/go/50jazU6Dw--?m=, https://www.nhc.gov.cn/"
+        "lat": 39.936987,
+        "lon":  116.348315,
+        "description": "National Health Commission",
+        "source": "https://osm.org/go/50ja8MNRn?m=, https://www.nhc.gov.cn/"
     },
     "泰国卫生部":
     {

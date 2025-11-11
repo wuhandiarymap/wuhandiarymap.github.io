@@ -605,7 +605,7 @@
         "label": "ORGANIZATION",
         "context": "川鄂（湖大教授）说，他每天都想大哭一场。",
         "valid": true,
-        "wuhan": false,
+        "wuhan": true,
         "area": false,
         "lat": 30.57946,
         "lon": 114.32742,
@@ -953,7 +953,7 @@
         "lat": 39.936987,
         "lon": 116.348315,
         "description": "National Health Commission",
-        "info_source": "https://osm.org/go/50ja8MNRn?m="
+        "info_source": "https://osm.org/go/50ja8MNRn?m=, https://www.nhc.gov.cn/"
       },
       "华南": {
         "mentioned_this_day": 3,
@@ -1138,8 +1138,8 @@
         "valid": true,
         "wuhan": true,
         "area": false,
-        "lat": 30.5297,
-        "lon": 114.0922,
+        "lat": 30.5302,
+        "lon": 114.0825,
         "description": "Temporary hospital",
         "info_source": "https://en.wikipedia.org/wiki/Huoshenshan_Hospital"
       },
@@ -1345,8 +1345,8 @@
         "valid": true,
         "wuhan": true,
         "area": false,
-        "lat": 30.5297,
-        "lon": 114.0922,
+        "lat": 30.5302,
+        "lon": 114.0825,
         "description": "Temporary hospital",
         "info_source": "https://en.wikipedia.org/wiki/Huoshenshan_Hospital"
       },
@@ -1390,8 +1390,8 @@
         "valid": true,
         "wuhan": true,
         "area": false,
-        "lat": 30.5297,
-        "lon": 114.0922,
+        "lat": 30.5302,
+        "lon": 114.0825,
         "description": "Temporary hospital",
         "info_source": "https://en.wikipedia.org/wiki/Huoshenshan_Hospital"
       },
@@ -1582,7 +1582,7 @@
         "label": "ORGANIZATION",
         "context": "我的医生朋友说，同济亦有一位外科教授去世，那是他的朋友。",
         "valid": true,
-        "wuhan": false,
+        "wuhan": true,
         "area": false,
         "lat": 30.582191,
         "lon": 114.254395,
@@ -3359,8 +3359,8 @@
         "valid": true,
         "wuhan": true,
         "area": false,
-        "lat": 30.5297,
-        "lon": 114.0922,
+        "lat": 30.5302,
+        "lon": 114.0825,
         "description": "Temporary hospital",
         "info_source": "https://en.wikipedia.org/wiki/Huoshenshan_Hospital"
       },
@@ -4247,8 +4247,8 @@
         "valid": true,
         "wuhan": false,
         "area": true,
-        "lat": 30.25,
-        "lon": 20.199,
+        "lat": 30.249,
+        "lon": 120.199,
         "description": "City",
         "info_source": "https://osm.org/go/5mcqk8--?m=&relation=3221112"
       },
@@ -4956,7 +4956,7 @@
         "lat": 39.936987,
         "lon": 116.348315,
         "description": "National Health Commission",
-        "info_source": "https://osm.org/go/50ja8MNRn?m="
+        "info_source": "https://osm.org/go/50ja8MNRn?m=, https://www.nhc.gov.cn/"
       },
       "金银潭医院": {
         "mentioned_this_day": 1,
@@ -6245,7 +6245,7 @@
         "lat": 39.936987,
         "lon": 116.348315,
         "description": "National Health Commission",
-        "info_source": "https://osm.org/go/50ja8MNRn?m="
+        "info_source": "https://osm.org/go/50ja8MNRn?m=, https://www.nhc.gov.cn/"
       },
       "国家卫生健康委": {
         "mentioned_this_day": 1,
@@ -6255,10 +6255,10 @@
         "valid": true,
         "wuhan": false,
         "area": false,
-        "lat": 39.934289,
-        "lon": 116.335462,
-        "description": "Department",
-        "info_source": "https://osm.org/go/50jazU6Dw--?m=, https://www.nhc.gov.cn/"
+        "lat": 39.936987,
+        "lon": 116.348315,
+        "description": "National Health Commission",
+        "info_source": "https://osm.org/go/50ja8MNRn?m=, https://www.nhc.gov.cn/"
       },
       "武汉市": {
         "mentioned_this_day": 3,
@@ -7862,8 +7862,8 @@
         "valid": true,
         "wuhan": false,
         "area": true,
-        "lat": 30.591531,
-        "lon": 113.214,
+        "lat": 23.12,
+        "lon": 114.17,
         "description": "Province (Guangdong)",
         "info_source": "https://osm.org/go/5gDUS?m=&relation=911844"
       },
