@@ -3,7 +3,6 @@ let meta_data;
 const dateInput = document.getElementById("datepicker");
 const mapFrame = document.getElementById("map");
 const date = document.getElementById("date");
-const checkbox = document.getElementById("checkbox");
 const title = document.getElementById("title");
 const source = document.getElementById("source");
 const location_name = document.getElementById("location");
@@ -23,10 +22,6 @@ fetch("meta_data.json")
 
 dateInput.addEventListener("change", function() {
     updateUI(this.value);
-});
-
-checkbox.addEventListener("change", function() {
-    updateUI(dateInput.value);
 });
 
 function back() {
@@ -56,12 +51,7 @@ function next() {
 }
 
 function updateUI(selectedDate) {
-    if (checkbox.checked) {
-        mapFrame.src = "maps/" + selectedDate + "_open-street-map.html";
-    } else {
-        mapFrame.src = "maps/" + selectedDate + "_carto-positron-nolabels.html";
-    }
-
+    mapFrame.src = "maps/" + selectedDate + "_open-street-map.html";
     date.innerHTML = selectedDate;
     title.innerHTML = "<b>Title: </b>" + meta_data[selectedDate]["title"];
     source.innerHTML = "<b>Source: </b>" + "<a target='_blank' rel='noopener noreferrer' href='" + meta_data[selectedDate]["source"] + "'>" + meta_data[selectedDate]["source"] + "</a>";

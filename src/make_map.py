@@ -140,6 +140,5 @@ def process_data(map_style):
 
 
 if __name__ == "__main__":
-    process_data("carto-positron-nolabels")
     process_data("open-street-map")
 
