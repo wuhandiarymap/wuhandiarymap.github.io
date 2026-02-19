@@ -10,4 +10,4 @@ The code used for identifying the locations can be found in `src/locations.py`. 
 
 ## License
 
-The code and the data are licensed under the MIT License. The maps and the wuhan_districts.geojson are based on OpenStreetMap (https://www.openstreetmap.org/copyright) and therefore licensed under the Open Data Commons Open Database License (ODbL) License.
+The code and the data are licensed under the MIT License. The maps and the wuhan_districts.geojson are based on [OpenStreetMap](https://www.openstreetmap.org/copyright) and therefore licensed under the Open Data Commons Open Database License (ODbL) License.
