@@ -5,142 +5,141 @@ import json
 from tqdm import tqdm
 
 class MapMaker():
-	def __init__(self, map_style):
-		super(MapMaker, self).__init__()
-		self.map_style = map_style
-		
-	def base_map(self, districts):
-		geojson = open("../data/wuhan.geojson", encoding="utf-8")
-		gdf = gpd.read_file(geojson)
-		
-		gdf["name"] = gdf["name"].str[:-1]
-		gdf["info"] = gdf["name"].map(districts)
-		
-		if districts:
-			gdf["highlight"] = gdf["name"].apply(lambda x: 1 if x.replace("区", "") in districts.keys() else 0)
+    def __init__(self, map_style):
+        super(MapMaker, self).__init__()
+        self.map_style = map_style
+        
+    def base_map(self, districts):
+        geojson = open("../data/wuhan_districts.geojson", encoding="utf-8")
+        gdf = gpd.read_file(geojson)
+        gdf["name:zh-Hans"] = gdf["name:zh-Hans"].str[:-1]
 
-		else:
-			gdf["highlight"] = 0
-		
-		self.fig = px.choropleth_map(
-			gdf,
-			geojson=gdf.geometry,
-			locations=gdf.index,
-			center={"lat": 30.5928, "lon": 114.3052}, 
-			map_style= self.map_style,
-			color="highlight",
-			hover_name="name",
-			hover_data={"highlight": False},
-			custom_data="info",
-			color_continuous_scale=[[0, "#ed8a9c"], [1, "#2feb64"]],
-			range_color=[0, 1],
-			opacity=0.2,
-			width=750,
-			height=800,
-		)
-		
-		self.fig.update_coloraxes(showscale=False)
-		self.fig.update_traces(hovertemplate="<b>%{hovertext}<b><extra></extra>")
+        gdf["info"] = gdf["name:zh-Hans"].map(districts)
+        
+        if districts:
+            gdf["highlight"] = gdf["name:zh-Hans"].apply(lambda x: 1 if x.replace("区", "") in districts.keys() else 0)
 
-	def add_marker(self, lat, lon, name, wuhan, data):
-		hover_text = f"<b>{name}</b><br><i>Click for more info</i><extra></extra>"
+        else:
+            gdf["highlight"] = 0
+        
+        self.fig = px.choropleth_map(
+            gdf,
+            geojson=gdf.geometry,
+            locations=gdf.index,
+            center={"lat": 30.5928, "lon": 114.3052}, 
+            map_style= self.map_style,
+            color="highlight",
+            hover_name="name",
+            hover_data={"highlight": False},
+            custom_data="info",
+            color_continuous_scale=[[0, "#ed8a9c"], [1, "#2feb64"]],
+            range_color=[0, 1],
+            opacity=0.2,
+            width=750,
+            height=800,
+        )
+        
+        self.fig.update_coloraxes(showscale=False)
+        self.fig.update_traces(hovertemplate="<b>%{hovertext}<b><extra></extra>")
 
-		if wuhan:
-			self.fig.add_trace(
-				go.Scattermap(
-					lat=[lat],
-					lon=[lon],
-					hovertemplate=hover_text,
-					mode="markers",
-					marker=dict(
-						size=12,
-						opacity=1,
-						color="#fa3f32"
-					),
-					customdata=data,
-					below=""
-				)
-			)
-		else:
-			self.fig.add_trace(
-				go.Scattermap(
-					lat=[lat],
-					lon=[lon],
-					hovertemplate=hover_text,
-					mode="text+markers",
-					text=name,
-					textposition="top center",
-					marker=dict(
-						size=12,
-						opacity=1,
-						color="#fa3f32"
-					),
-					textfont=dict(
-						size=20,
-						color="black",
-					),
-					customdata=data,
-					below=""
-				)
-			)
+    def add_marker(self, lat, lon, name, wuhan, data):
+        hover_text = f"<b>{name}</b><br><i>Click for more info</i><extra></extra>"
 
-	def save_map(self, fname):
-		self.fig.update_layout(
-			margin=dict(
-				l=0,
-				r=0,
-				b=0,
-				t=0,
-				pad=0
-			),
-			showlegend=False,
-		)
-		self.fig.write_html(f"../website/maps/{fname}_{self.map_style}.html", config={"displayModeBar": False}, div_id=f"{fname}")
+        if wuhan:
+            self.fig.add_trace(
+                go.Scattermap(
+                    lat=[lat],
+                    lon=[lon],
+                    hovertemplate=hover_text,
+                    mode="markers",
+                    marker=dict(
+                        size=12,
+                        opacity=1,
+                        color="#fa3f32"
+                    ),
+                    customdata=data,
+                    below=""
+                )
+            )
+        else:
+            self.fig.add_trace(
+                go.Scattermap(
+                    lat=[lat],
+                    lon=[lon],
+                    hovertemplate=hover_text,
+                    mode="text+markers",
+                    text=name,
+                    textposition="top center",
+                    marker=dict(
+                        size=12,
+                        opacity=1,
+                        color="#fa3f32"
+                    ),
+                    textfont=dict(
+                        size=20,
+                        color="black",
+                    ),
+                    customdata=data,
+                    below=""
+                )
+            )
+
+    def save_map(self, fname):
+        self.fig.update_layout(
+            margin=dict(
+                l=0,
+                r=0,
+                b=0,
+                t=0,
+                pad=0
+            ),
+            showlegend=False,
+        )
+        self.fig.write_html(f"../website/maps/{fname}_{self.map_style}.html", config={"displayModeBar": False}, div_id=f"{fname}")
 
 
 def process_data(map_style):
-	with open("../data/locations_to_map.json", "r", encoding="utf-8") as file:
-		data = json.loads(file.read())
+    with open("../data/locations_to_map.json", "r", encoding="utf-8") as file:
+        data = json.loads(file.read())
 
-	for k, v in tqdm(data.items()):
-	#for k, v in data.items():
-		mm = MapMaker(map_style)
-		locations = v["locations"]
-		districts = {}
-		
-		for i, j in locations.items():
-			if j["description"] == "District":
-				districts[i.replace("区", "")] = [i, j["mentioned_this_day"], j["mentioned_total"], j["context"], j["description"]]
-			if i == "汉口":
-				districts["江汉"] = [i, j["mentioned_this_day"], j["mentioned_total"], j["context"], j["description"]]
-				districts["硚口"] = [i, j["mentioned_this_day"], j["mentioned_total"], j["context"], j["description"]]
-				districts["江岸"] = [i, j["mentioned_this_day"], j["mentioned_total"], j["context"], j["description"]]
+    for k, v in tqdm(data.items()):
+        mm = MapMaker(map_style)
+        locations = v["locations"]
+        districts = {}
+        
+        for i, j in locations.items():
+            if j["description"] == "District":
+                districts[i.replace("区", "")] = [i, j["mentioned_this_day"], j["mentioned_total"], j["context"], j["description"]]
+            if i == "汉口":
+                districts["江汉"] = [i, j["mentioned_this_day"], j["mentioned_total"], j["context"], j["description"]]
+                districts["硚口"] = [i, j["mentioned_this_day"], j["mentioned_total"], j["context"], j["description"]]
+                districts["江岸"] = [i, j["mentioned_this_day"], j["mentioned_total"], j["context"], j["description"]]
 
-		mm.base_map(districts)
-		
-		mapped_wuhan = False
+        mm.base_map(districts)
+        
+        mapped_wuhan = False
 
-		for i, j in locations.items():
-			lat = j["lat"]
-			lon = j["lon"]
-			data = [i, j["mentioned_this_day"], j["mentioned_total"], j["context"], j["description"]]
+        for i, j in locations.items():
+            lat = j["lat"]
+            lon = j["lon"]
+            data = [i, j["mentioned_this_day"], j["mentioned_total"], j["context"], j["description"]]
 
-			if j["description"] != "District" and j["valid"]:
-				if j["wuhan"]:
-					if (i == "武汉市" or i == "武汉" or i == "汉") and not mapped_wuhan:
-						mm.add_marker(lat, lon, "武汉", False, data)
-						mapped_wuhan = True
+            if j["description"] != "District" and j["valid"]:
+                if j["wuhan"]:
+                    if (i == "武汉市" or i == "武汉" or i == "汉") and not mapped_wuhan:
+                        mm.add_marker(lat, lon, "武汉", False, data)
+                        mapped_wuhan = True
 
-					if (i != "武汉市" and i != "武汉" and i != "汉"):
-						mm.add_marker(lat, lon, i, True, data)
-				
-				if not j["wuhan"]:
-					mm.add_marker(lat, lon, i, False, data)
-		
-		mm.save_map(k)
+                    if (i != "武汉市" and i != "武汉" and i != "汉"):
+                        mm.add_marker(lat, lon, i, True, data)
+                
+                if not j["wuhan"]:
+                    mm.add_marker(lat, lon, i, False, data)
+        
+        mm.save_map(k)
 
 
 if __name__ == "__main__":
-	process_data("carto-positron-nolabels")
-	process_data("open-street-map")
+    process_data("carto-positron-nolabels")
+    process_data("open-street-map")
 
